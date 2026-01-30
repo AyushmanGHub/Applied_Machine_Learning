@@ -12,6 +12,8 @@ This project presents an end-to-end **machine learning–based SMS spam classifi
 
 ## About the Project
 
+<div style="border:2px solid #3344ffff; padding:10px; border-radius:8px; overflow-x:auto; width:100%; box-sizing:border-box;">
+
 ### How the Project Works
 
 1. **Data Loading & Preprocessing**
@@ -35,16 +37,19 @@ This project presents an end-to-end **machine learning–based SMS spam classifi
    * Hyperparameters are tuned using **cross-validation** on the training data.
 
 4. **Evaluation & Model Selection** - Models are evaluated using Accuracy, Precision, Recall, F1-score, PR-AUC, and Special focus is placed on **F1-score and PR-AUC** due to class imbalance.
+</div>
 
 ## Best Model and Why
 
-**Logistic Regression** was selected as the final model. why?
-* Achieved the highest **F1-score** and **PR-AUC** on the test set.
-* Demonstrated strong generalization with minimal overfitting.
-* Balanced precision and recall effectively, which is critical for spam detection.
-* Linear decision boundary works well with high-dimensional sparse TF-IDF features.
+### **Best model based on results and Industrial use: `Naive Bayes`**
 
-Although Random Forest achieved perfect training performance, it showed signs of **overfitting**, while Naive Bayes made stronger independence assumptions that limited recall.
+**Why? —**  
+- Naive Bayes is more suitable for spam detection and real-world deployment due to its **perfect precision**, **low inference latency**, and **minimal risk of false positives**.  
+- Although its F1-score is slightly lower than Logistic Regression, **precision is prioritized** because misclassifying legitimate (ham) messages as spam is more harmful than allowing some spam messages to pass through.  
+- From an industry perspective, Naive Bayes provides **fast, scalable, and interpretable predictions**, making it well-suited for real-time message filtering systems.  
+- Logistic Regression, while strong in overall metrics, exhibits lower precision, increasing the risk of false positives, whereas Random Forest shows signs of **overfitting** and does not generalize well on unseen data.
+
+> A two-stage filtering strategy can further balance spam reduction with user trust and operational safety.
 
 
 ## What Was the Problem and How This Project Solves It
