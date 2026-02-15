@@ -1,0 +1,559 @@
+label,message,length,has_url,has_number,exclamation_count,caps_ratio
+0,"['how', 'many', 'time', 'told', 'stage', 'use', 'laugh', '.', 'you', 'listen', 'aha', '.']",12,False,False,0,0.027777777777777776
+0,"['that', ""'s"", 'good', ',', 'i', 'need', 'drug']",7,False,False,0,0.06060606060606061
+0,"['i', 'two', 'letter', '.', 'i', 'copy', 'co', 'one', 'message', '.', 'speak', 'soon']",12,False,False,0,0.0297029702970297
+0,"['is', 'time', 'want', 'come', '?']",5,False,False,0,0.02631578947368421
+0,"['&', 'lt', ';', '#', '&', 'gt', ';', 'min', 'stop', 'somewhere', 'first', '.']",12,False,False,0,0.0
+0,"['hope', 'feeling', 'great', '.', 'pls', 'fill', '.', 'abiola']",8,False,False,0,0.06
+0,"['i', 'think', '…thanks', 'see', 'tomo']",5,False,False,0,0.043478260869565216
+1,"['someonone', 'know', 'trying', 'contact', 'via', 'dating', 'service', '!', 'to', 'find', 'could', 'call', 'mobile', 'landline', '09064015307', 'box334sk38ch']",16,False,True,1,0.04516129032258064
+0,"['no', 'dude', ',', 'fake', '..', 'frnds', 'got', 'money', ',', 'thts', ""'m"", 'reffering', 'u', '..', 'u', 'member', 'wit', 'mail', 'link', ',', 'u', 'vl', 'credited', '&', 'lt', ';', '#', '&', 'gt', ';', 'r', 'il', 'getiing', '&', 'lt', ';', '#', '&', 'gt', ';', 'r', '..', 'draw', 'acc', 'wen', '&', 'lt', ';', '#', '&', 'gt', ';', 'r', '..']",54,False,False,0,0.004901960784313725
+0,"['helloooo', '...', 'wake', '..', '!', '``', 'sweet', ""''"", '``', 'morning', ""''"", '``', 'welcome', ""''"", '``', 'you', ""''"", '``', 'enjoy', ""''"", '``', 'this', 'day', ""''"", '``', 'full', 'joy', ""''"", '..', '``', 'gud', 'mrng', ""''"", '.']",34,False,False,1,0.12844036697247707
+0,"['don', '‘', 'give', 'flying', 'monkey', 'wot', 'think', 'i', 'certainly', '‘', 'mind', '.', 'any', 'friend', 'mine', '!']",16,False,False,1,0.02912621359223301
+1,"['urgent', '!', 'please', 'call', '09061213237', 'landline', '.', '£5000', 'cash', 'luxury', '4', '*', 'canary', 'islands', 'holiday', 'await', 'collection', '.', 't', '&', 'cs', 'sae', 'po', 'box', '177', '.', 'm227xy', '.', '150ppm', '.', '16+']",31,False,True,1,0.1038961038961039
+0,"['thanx', '4', '2day', '!', 'u', 'r', 'goodmate', 'i', 'think', 'ur', 'rite', 'sary', '!', 'asusual', '!', '1', 'u', 'cheered', 'me', 'up', '!', 'love', 'u', 'franyxxxxx']",24,False,True,4,0.49473684210526314
+1,"['3', '.', 'you', 'received', 'mobile', 'content', '.', 'enjoy']",8,False,True,0,0.0425531914893617
+1,"['you', '1', 'new', 'message', '.', 'please', 'call', '08718738034', '.']",9,False,True,0,0.041666666666666664
+0,"['hi', 'darlin', 'i', 'finish', 'at', '3', 'do', 'u', '1', '2', 'pick', 'me', 'up', 'or', 'meet', 'me', '?', 'text', 'back', 'on', 'this', 'number', 'luv', 'kate', 'xxx']",25,False,True,0,0.7096774193548387
+1,"['sunshine', 'quiz', 'wkly', 'q', '!', 'win', 'top', 'sony', 'dvd', 'player', 'u', 'know', 'country', 'algarve', '?', 'txt', 'ansr', '82277', '.', '£1.50', 'sp', ':', 'tyrone']",23,False,True,1,0.112
+0,"['i', 'want', 'inside', 'every', 'night', '...']",6,False,False,0,0.02631578947368421
+0,"['somewhr', 'someone', 'surely', 'made', '4', 'u', '.', 'and', 'god', 'decided', 'perfect', 'time', 'make', 'u', 'meet', 'dat', 'person', '.', '.', '.', '.', 'till', 'den', ',', '.', '.', '.', '.', '.', 'enjoy', 'ur', 'crush', '..', '!', '!', '!', ';', '-', ')']",39,False,True,3,0.02702702702702703
+0,"['yup', 'n', 'fren', 'lor', '.', 'i', ""'m"", 'meeting', 'fren', '730', '.']",11,False,True,0,0.0425531914893617
+0,"['my', 'parents', ',', 'my', 'kidz', ',', 'my', 'friends', 'n', 'my', 'colleagues', '.', 'all', 'screaming', '..', 'surprise', '!', '!', 'i', 'waiting', 'sofa', '..', '...', '.....', ""'"", 'naked', '...', '!']",28,False,False,3,0.17692307692307693
+0,"['alright', 'took', 'morphine', '.', 'back', 'yo', '.']",7,False,False,0,0.05263157894736842
+0,"['i', 'wan', 'early', 'lei', '...', 'me', 'outside', 'wun', 'b', 'home', 'early', '...', 'neva', 'mind', '...']",15,False,False,0,0.036585365853658534
+0,"['sorry', ',', 'i', ""'ll"", 'call', 'later']",6,False,False,0,0.09090909090909091
+1,"['you', 'nokia', '7250i', '.', 'this', 'get', 'win', 'free', 'auction', '.', 'to', 'take', 'part', 'send', 'nokia', '86021', '.', 'hg/suite342/2lands', 'row/w1jhl', '16+']",20,False,True,0,0.12
+0,['ok'],1,False,False,0,0.5
+1,"['win', 'year', 'supply', 'cds', '4', 'store', 'ur', 'choice', 'worth', '£500', '&', 'enter', '£100', 'weekly', 'draw', 'txt', 'music', '87066', 'ts', '&', 'cs', 'www.ldew.com.subs16+1win150ppmx3']",22,False,True,0,0.09655172413793103
+0,"['this', 'pay', '&', 'lt', ';', 'decimal', '&', 'gt', ';', 'lakh', ':', ')']",12,False,False,0,0.21621621621621623
+0,"['sorry', ',', 'i', ""'ll"", 'call', 'later']",6,False,False,0,0.09090909090909091
+0,"['have', 'practising', 'curtsey', '?']",4,False,False,0,0.02631578947368421
+0,"['probably', 'couple', 'hour', 'top']",4,False,False,0,0.03571428571428571
+0,"['no', 'plm', 'come', 'da', '.', 'on', 'way', '.']",8,False,False,0,0.058823529411764705
+0,"['two', 'fundamental', 'cool', 'life', ':', '``', 'walk', ',', 'like', 'king', ""''"", '...', '!', 'or', '``', 'walk', 'like', 'dont', 'care', ',', 'whoever', 'king', ""''"", '!', '...', 'gud', 'nyt']",27,False,False,2,0.12
+0,"['where', '?', 'what', '?', 'how', 'stand', 'away', '?', 'does', ""n't"", 'heart', 'ache', 'without', '?', 'do', ""n't"", 'wonder', '?', 'do', ""n't"", 'crave', '?']",22,False,False,0,0.03896103896103896
+0,"['happy', 'birthday', '...', 'may', 'ur', 'dream', 'come', 'true', '...']",9,False,False,0,0.041666666666666664
+0,"['yo', 'there', 'class', 'tmrw', 'right', '?']",6,False,False,0,0.03333333333333333
+0,"['nah', ',', 'wednesday', '.', 'when', 'i', 'bring', 'mini', 'cheetos', 'bag', '?']",11,False,False,0,0.06451612903225806
+0,"['today', 'sorry', 'day.', '!', 'if', 'ever', 'angry', ',', 'ever', 'misbehaved', 'hurt', '?', 'plz', 'plz', 'just', 'slap', 'urself', 'bcoz', ',', 'its', 'ur', 'fault', ',', 'i', ""'m"", 'basically', 'good']",27,False,False,1,0.1891891891891892
+0,"['no', '.', 'she', ""'s"", 'currently', 'scotland', '.']",7,False,False,0,0.04878048780487805
+0,"['carlos', 'i', 'pick', ',', 'i', ""'ll"", 'swing', 'usf', 'little', 'bit']",10,False,False,0,0.03488372093023256
+0,"['i', 'surely', 'dont', 'forgot', 'come', ':', ')', 'always', 'touch', ':', '-', ')']",12,False,False,0,0.014285714285714285
+0,"['i', 'call', 'later', ',', ""n't"", 'network', '.', 'if', 'urgnt', ',', 'sm', '.']",12,False,False,0,0.03636363636363636
+0,"['are', 'norm', 'tomorrow', '?', 'i', 'finish', '4.15', 'co', 'st', 'test', '.', 'need', 'sort', 'library', 'stuff', 'point', 'tomo', '-', 'got', 'letter', 'today', '-', 'access', 'til', 'end', 'march', 'better', 'get', 'move', '!']",30,False,True,1,0.015706806282722512
+0,"['no', 'need', 'buy', 'lunch', '..', 'i', 'eat', 'maggi', 'mee', '..']",10,False,False,0,0.0425531914893617
+0,"['7', 'wonder', 'my', 'world', '7th', 'you', '6th', 'ur', 'style', '5th', 'ur', 'smile', '4th', 'ur', 'personality', '3rd', 'ur', 'nature', '2nd', 'ur', 'sms', '1st', '``', 'ur', 'lovely', 'friendship', ""''"", '...', 'good', 'morning', 'dear']",31,False,True,0,0.13245033112582782
+0,"['yup', 'already', '...', 'thanx', '4', 'printing', 'n', 'handing', '.']",9,False,True,0,0.03571428571428571
+0,"['i', 'like', 'cheap', '!', 'but', '‘', 'happy', 'splash', 'wine', 'make', 'feel', 'better', '..']",13,False,False,1,0.024096385542168676
+1,"['urgent', 'ur', '£500', 'guaranteed', 'award', 'still', 'unclaimed', '!', 'call', '09066368327', 'now', 'closingdate04/09/02', 'claimcode', 'm39m51', '£1.50pmmorefrommobile2bremoved-mobypobox734ls27yf']",15,False,True,1,0.1069182389937107
+0,"['seeking', 'lady', 'street', 'freak', 'sheet', '.', 'is', '?']",8,False,False,0,0.0136986301369863
+1,"['25p', '4', 'alfie', 'moon', ""'s"", 'children', 'need', 'song', 'ur', 'mob', '.', 'tell', 'ur', 'm8s', '.', 'txt', 'tone', 'charity', '8007', 'nokias', 'poly', 'charity', 'polys', ':', 'zed', '08701417012', 'profit', '2', 'charity', '.']",30,False,True,0,0.043478260869565216
+0,"['goodmorning', 'sleeping', 'ga', '.']",4,False,False,0,0.041666666666666664
+0,"['what', 'i', ""'m"", 'saying', ""n't"", 'explicitly', 'told', 'nora', 'i', 'know', 'someone', 'i', ""'m"", 'probably', 'gon', 'na', 'bother']",17,False,False,0,0.038461538461538464
+0,"['wat', 'make', 'people', 'dearer', 'de', 'happiness', 'dat', 'u', 'feel', 'u', 'meet', 'de', 'pain', 'u', 'feel', 'u', 'miss', 'dem', '!', '!', '!']",21,False,False,3,0.008403361344537815
+1,"['freemsg', ':', 'claim', 'ur', '250', 'sms', 'messages-text', 'ok', '84025', '!', 'use', 'web2mobile', '2', 'ur', 'mate', 'etc', '.', 'join', 'txt250.com', '1.50p/wk', '.', 't', '&', 'c', 'box139', ',', 'la32wu', '.', '16', '.', 'remove', 'txtx', 'stop']",33,False,True,1,0.14285714285714285
+1,"['hello', 'orange', '.', 'for', '1', 'month', ""'s"", 'free', 'access', 'game', ',', 'news', 'sport', ',', 'plus', '10', 'free', 'text', '20', 'photo', 'message', ',', 'reply', 'yes', '.', 'terms', 'apply', ':', 'www.orange.co.uk/ow']",29,False,True,0,0.04487179487179487
+1,"['you', ""'ve"", 'tkts', 'euro2004', 'cup', 'final', '£800', 'cash', ',', 'collect', 'call', '09058099801', 'b4190604', ',', 'pobox', '7876150ppm']",16,False,True,0,0.23636363636363636
+0,"['that', 'day', 'asked', 'anand', 'number', '.', 'why', ':', '-', ')']",10,False,False,0,0.044444444444444446
+0,"['you', 'room', '?', 'i', 'need']",5,False,False,0,0.06666666666666667
+0,"['there', 'generally', ""n't"", 'one', '.', 'it', ""'s"", 'uncountable', 'noun', '-', 'u', 'dictionary', '.', 'piece', 'research', '?']",16,False,False,0,0.02127659574468085
+0,"['sure', 'since', 'parent', 'working', 'tuesday', 'i', ""n't"", 'really', 'need', 'cover', 'story']",11,False,False,0,0.03488372093023256
+0,"['dude', 'u', 'knw', 'also', 'telugu', '..', 'thts', 'gud', '..', 'k', ',', 'gud', 'nyt', '..']",14,False,False,0,0.021739130434782608
+0,"['you', 'still', 'around', '?', 'looking', 'pick', 'later']",7,False,False,0,0.047619047619047616
+0,"['why', ""n't"", 'go', 'tell', 'friend', ""'re"", 'sure', 'want', 'live', 'smoke', 'much', 'spend', 'hour', 'begging', 'come', 'smoke']",16,False,False,0,0.006896551724137931
+0,"['cos', 'shopping', 'wif', 'darren', 'jus', 'n', 'called', '2', 'ask', 'wat', 'present', 'wan', 'lor', '.', 'then', 'started', 'guessing', 'wif', 'n', 'finally', 'guessed', 'darren', 'lor', '.']",24,False,True,0,0.012658227848101266
+0,"['finished', 'class', '.']",3,False,False,0,0.034482758620689655
+0,"['i', 'remain', 'unconvinced', ""n't"", 'elaborate', 'test', 'willpower']",7,False,False,0,0.014285714285714285
+0,"['staff', 'placement', 'training', 'amrita', 'college', '.']",6,False,False,0,0.043478260869565216
+0,"['what', 'told', 'tell', '.', 'stupid', 'hear', 'wont', 'tell', 'anything', '.', 'you', 'dad', 'called', 'brother', 'spoken', '.', 'not', '.']",18,False,False,0,0.031496062992125984
+0,"['dai', '&', 'lt', ';', '#', '&', 'gt', ';', 'naal', 'eruku', '.']",11,False,False,0,0.037037037037037035
+0,"['i', 'sent', '.', 'do', 'like', '?']",6,False,False,0,0.08
+0,"['i', 'like', 'dis', 'sweater', 'fr', 'mango', 'size', 'already', 'irritating', '.']",10,False,False,0,0.014285714285714285
+0,"['cool', '.', 'i', '&', 'lt', ';', '#', '&', 'gt', ';', 'inch', 'long', '.', 'hope', 'like', 'big', '!']",17,False,False,1,0.03389830508474576
+0,"[""fr'ndship"", 'like', 'needle', 'clock', '.', 'though', 'v', 'r', 'clock', ',', 'v', 'r', 'nt', 'able', '2', 'met', '.', 'evn', 'v', 'meet', ',', 'itz', '4few', 'second', '.', 'bt', 'v', 'alwys', 'stay', 'conected', '.', 'gud', '9t', ';', '-', ')']",36,False,True,0,0.10126582278481013
+0,"['its', 'engalnd', '!', 'but', 'telly', 'decided', 'wo', ""n't"", 'let', 'watch', 'mia', 'elliot', 'kissing', '!', 'damn', '!']",16,False,False,3,0.028037383177570093
+0,"['bishan', 'lar', 'nearer', '...', 'no', 'need', 'buy', 'early', 'co', 'buy', 'got', 'ta', 'park', 'car', '...']",15,False,False,0,0.02531645569620253
+0,"['do', 'still', 'grinder', '?']",4,False,False,0,0.03333333333333333
+0,"['and', ""'s"", 'apparently', 'bffs', 'carly', 'quick']",6,False,False,0,0.022222222222222223
+1,"['well', 'done', 'england', '!', 'get', 'official', 'poly', 'ringtone', 'colour', 'flag', 'yer', 'mobile', '!', 'text', 'tone', 'flag', '84199', 'now', '!', 'opt-out', 'txt', 'eng', 'stop', '.', 'box39822', 'w111wx', '£1.50']",27,False,True,3,0.2064516129032258
+0,"['not', 'lot', 'happened', '.', 'feels', 'quiet', '.', 'beth', 'aunt', 'charlie', 'working', 'lot', '.', 'just', 'helen', 'mo', '.', 'how', '?']",19,False,False,0,0.033783783783783786
+0,"['haha', '...', 'where', 'got', 'fast', 'lose', 'weight', ',', 'thk', 'muz', 'go', '4', 'month', 'den', 'got', 'effect', '...', 'gee', ',', 'later', 'go', 'aust', 'put', 'bk', 'e', 'weight', '.']",27,False,True,0,0.02608695652173913
+0,"['be', 'sure', 'check', 'yahoo', 'email', '.', 'we', 'sent', 'photo', 'yesterday']",10,False,False,0,0.03389830508474576
+0,"['hey', 'tmr', 'meet', 'bugis', '930', '?']",6,False,True,0,0.037037037037037035
+0,"['this', 'single', 'single', 'answer', 'fighting', '?', 'plus', 'said', 'broke', 'didnt', 'reply']",11,False,False,0,0.023809523809523808
+0,"['i', 'want', 'sent', '&', 'lt', ';', '#', '&', 'gt', ';', 'mesages', 'today', '.', 'thats', '.', 'sorry', 'hurt']",17,False,False,0,0.045454545454545456
+0,"['what', 'time', 'coming', 'later', '?']",5,False,False,0,0.030303030303030304
+0,"['hey', 'whats', '?', 'u', 'sleeping', 'morning', '?']",7,False,False,0,0.05405405405405406
+0,"['not', 'drop', 'tank']",3,False,False,0,0.045454545454545456
+0,"['what', 'record', 'one', 'night', '?', ':', ')']",7,False,False,0,0.02702702702702703
+0,"['aight', ',', 'let', 'know', ""'re"", 'gon', 'na', 'around', 'usf']",9,False,False,0,0.02
+0,"['sorry', ',', 'left', 'phone', 'upstairs', '.', 'ok', ',', 'might', 'hectic', 'would', 'bird', 'one', 'fell', 'swoop', '.', 'it', ""'s"", 'date', '.']",20,False,False,0,0.037383177570093455
+0,"['i', 'gentle', 'baby', '!', 'soon', 'taking', '&', 'lt', ';', '#', '&', 'gt', ';', 'inch', 'deep', 'inside', 'tight', 'pussy', '...']",19,False,False,1,0.019801980198019802
+0,"['yun', 'buying', '...', 'but', 'school', 'got', 'offer', '2000', 'plus', '...']",10,False,True,0,0.038461538461538464
+0,"['me', ',', 'dont', 'know', 'oh']",5,False,False,0,0.041666666666666664
+0,"['i', 'getting', 'threat', 'sale', 'executive', 'shifad', 'raised', 'complaint', '.', 'its', 'official', 'message', '.']",13,False,False,0,0.02654867256637168
+0,"['yes', ',', ""'m"", 'small', 'kid', '..', 'and', 'boost', 'secret', 'energy', '..']",11,False,False,0,0.03389830508474576
+0,"['*', 'good', 'weekend', '.']",4,False,False,0,0.0
+0,"['yo', 'im', 'right', 'yo', 'work']",5,False,False,0,0.045454545454545456
+0,"['wishing', 'wonderful', 'week', '.']",4,False,False,0,0.034482758620689655
+0,"['my', 'sister', 'cleared', 'two', 'round', 'birla', 'soft', 'yesterday', '.']",9,False,False,0,0.019230769230769232
+0,"['oops', 'i', 'shower', 'u', 'called', '.', 'hey', 'parking', 'garage', 'collapsed', 'university', 'hospital', '.', 'see', 'i', ""'m"", 'crazy', '.', 'stuff', 'like', 'does', 'happen', '.']",23,False,False,0,0.07042253521126761
+0,"['i', 'would', 'i', ""'m"", 'still', 'cozy', '.', 'and', 'exhausted', 'last', 'night.nobody', 'went', 'school', 'work', '.', 'everything', 'closed', '.']",18,False,False,0,0.03636363636363636
+0,"['we', 'took', 'hooch', 'walk', 'toaday', 'fell', '!', 'splat', '!', 'grazed', 'knee', 'everything', '!', 'should', 'stayed', 'home', '!', 'see', 'tomorrow', '!']",20,False,False,5,0.03731343283582089
+0,"['wish', '!']",2,False,False,1,0.04
+0,"['not', 'yet', '.', 'just', ""'d"", 'like', 'keep', 'touch', 'easiest', 'way', 'barcelona', '.', 'by', 'way', 'ru', 'house', '?']",17,False,False,0,0.021897810218978103
+1,"['txt', ':', 'call', 'no', ':', '86888', '&', 'claim', 'reward', '3', 'hour', 'talk', 'time', 'use', 'phone', '!', 'subscribe6gbp/mnth', 'inc', '3hrs', '16', 'stop', '?', 'txtstop', 'www.gamb.tv']",24,False,True,1,0.07482993197278912
+1,"['urgent', 'we', 'trying', 'contact', 'last', 'weekend', 'draw', 'show', 'u', '£1000', 'prize', 'guaranteed', 'call', '09064017295', 'claim', 'code', 'k52', 'valid', '12hrs', '150p', 'pm']",21,False,True,0,0.14864864864864866
+0,"['except', 'there', 'chick', 'huge', 'boob', '.']",6,False,False,0,0.02631578947368421
+0,"[':', '(', '....']",3,False,False,0,0.0
+0,"['&', 'lt', ';', '#', '&', 'gt', ';', 'i', 'think', '?', 'should', 'say', 'syllabus']",13,False,False,0,0.044444444444444446
+0,"['yes', 'princess', '!', 'i', 'want', 'catch', 'big', 'strong', 'hand', '...']",10,False,False,1,0.03278688524590164
+0,"['pls', 'speak', 'customer', 'machan', '.']",5,False,False,0,0.029411764705882353
+0,"['u', 'reach', 'orchard', 'already', '?', 'u', 'wan', '2', 'go', 'buy', 'ticket', 'first', '?']",13,False,True,0,0.037037037037037035
+0,"['i', ""'ve"", 'barred', 'b', 'q', 'store', 'life', '!', '?', 'this', 'twat', 'orange', 'dungerees', 'came', 'asked', 'i', 'wanted', 'decking', '?', 'so', 'i', 'got', 'first', 'punch', '!', '!']",26,False,False,3,0.04516129032258064
+0,"['great', '!', 'how', 'office', 'today', '?']",6,False,False,1,0.06451612903225806
+0,"['great', '.', 'i', 'getting', 'worried', '.', 'just', 'know', 'wonderful', 'caring', 'person', 'like', 'best', 'life', '.', 'know', 'u', 'r', 'wonderful', 'god', ""'s"", 'love', '.']",23,False,False,0,0.02857142857142857
+0,"['well', 'imma', 'definitely', 'need', 'restock', 'thanksgiving', ',', 'i', ""'ll"", 'let', 'know', 'i', ""'m""]",13,False,False,0,0.03409090909090909
+0,"['good', 'morning', 'plz', 'call', 'sir']",5,False,False,0,0.07142857142857142
+0,"['jesus', 'christ', 'bitch', 'i', ""'m"", 'trying', 'give', 'drug', 'answer', 'fucking', 'phone']",11,False,False,0,0.0273972602739726
+0,"['i', 'thk', 'ü', 'got', 'ta', 'go', 'home', 'urself', '.', 'cos', ""'ll"", 'b', 'going', 'shopping', '4', 'frens', 'present', '.']",18,False,True,0,0.024096385542168676
+0,"['send', 'ur', 'friend', 'receive', 'something', 'ur', 'voice', '.....', 'how', 'speaking', 'expression', '?', '1.childish', '2.naughty', '3.sentiment', '4.rowdy', '5.ful', 'attitude', '6.romantic', '7.shy', '8.attractive', '9.funny', '&', 'lt', ';', '#', '&', 'gt', ';', '.irritating', '&', 'lt', ';', '#', '&', 'gt', ';', '.lovable', '.', 'reply', '..']",41,False,True,0,0.016129032258064516
+0,"['wat', 'time', 'u', 'wan', '2', 'meet', 'later', '?']",8,False,True,0,0.029411764705882353
+0,"['dad', 'wanted', 'talk', 'apartment', 'i', 'got', 'late', 'start', ',', 'omw']",10,False,False,0,0.028985507246376812
+0,"['oh', 'k.k', '..', 'take', 'test', '?']",6,False,False,0,0.03125
+1,"['urgent', '!', 'your', 'mobile', 'number', 'awarded', '£2000', 'prize', 'guaranteed', '.', 'call', '09061790126', 'land', 'line', '.', 'claim', '3030', '.', 'valid', '12hrs', '150ppm']",21,False,True,1,0.14685314685314685
+0,"['yep', '.', 'i', 'like', 'pink', 'furniture', 'tho', '.']",8,False,False,0,0.05263157894736842
+0,"['awesome', ',', 'think', 'get', '8th', 'usf', 'time', 'tonight', '?']",9,False,True,0,0.017241379310344827
+0,"['sweetheart', ',', 'hope', 'kind', 'day', '!', 'have', 'one', 'load', 'reason', 'smile', '.', 'biola']",13,False,False,1,0.03
+0,"['happy', 'new', 'year', 'princess', '!']",5,False,False,1,0.16666666666666666
+0,"['i', ""'ve"", 'reached', 'home', 'n', 'bathe', 'liao', '...', 'u', 'call', '...']",11,False,False,0,0.03571428571428571
+0,"['hey', 'chief', ',', 'give', 'bell', 'get', '.', 'need', 'talk', 'royal', 'visit', '1st', 'june', '.']",14,False,True,0,0.017699115044247787
+0,"['i', 'number', 'sir']",3,False,False,0,0.03333333333333333
+0,"['men', 'always', 'need', 'beautiful', ',', 'intelligent', ',', 'caring', ',', 'loving', ',', 'adjustable', ',', 'cooperative', 'wife', '.', 'but', 'law', 'allows', 'one', 'wife', '....']",22,False,False,0,0.016
+1,"['as', 'sim', 'subscriber', ',', 'selected', 'receive', 'bonus', '!', 'get', 'delivered', 'door', ',', 'txt', 'word', 'ok', 'no', ':', '88600', 'claim', '.', '150p/msg', ',', 'exp', '.', '30apr']",25,False,True,1,0.0945945945945946
+0,"['how', 'little', 'darling', 'far', 'week', '?', 'need', 'coffee', 'run', 'tomo', '?', 'ca', ""n't"", 'believe', ""'s"", 'time', 'week', 'already', '…']",19,False,False,0,0.02459016393442623
+0,"['i', ""'ll"", 'reach', 'ard', '20', 'min', 'ok', '...']",8,False,True,0,0.03225806451612903
+0,"['i', 'think', 'steyn', 'surely', 'get', 'one', 'wicket', ':', ')']",9,False,False,0,0.02702702702702703
+0,"['leave', 'de', ':', '-', ')', '.', 'start', 'prepare', 'next', ':', '-', ')', '..']",13,False,False,0,0.06976744186046512
+0,"['just', 'sent', '.', 'so', 'type', 'food', 'like', '?']",8,False,False,0,0.0425531914893617
+0,"['i', 'tirupur', 'da', ',', 'started', 'office', 'call', '.']",8,False,False,0,0.017543859649122806
+0,"['is', ""n't"", 'frnd', 'necesity', 'life', '?', 'imagine', 'urself', 'witout', 'frnd', '..', 'hw', ""'d"", 'u', 'feel', 'ur', 'colleg', '?', 'wat', ""'ll"", 'u', 'wth', 'ur', 'cell', '?', 'wat', 'abt', 'function', '?', 'thnk', 'abt', 'event', 'espe', ""'ll"", 'cared', ',', 'missed', '&', 'amp', ';', 'irritated', 'u', '?', '4wrd', 'dear-loving', 'frnds', 'wthout', 'u', 'cant', 'live', '..', 'i', 'jst', '..', 'takecare', '..', ':', ')', 'goodmorning']",59,False,True,0,0.04778156996587031
+1,"['buy', 'space', 'invaders', '4', 'chance', '2', 'win', 'orig', 'arcade', 'game', 'console', '.', 'press', '0', 'games', 'arcade', '(', 'std', 'wap', 'charge', ')', 'see', 'o2.co.uk/games', '4', 'terms', '+', 'setting', '.', 'no', 'purchase']",30,False,True,0,0.09090909090909091
+0,"['lem', 'know', ""'re""]",3,False,False,0,0.037037037037037035
+1,"['claire', 'havin', 'borin', 'time', '&', 'alone', 'u', 'wan', 'na', 'cum', '2nite', '?', 'chat', '09099725823', 'hope', '2', 'c', 'u', 'luv', 'claire', 'xx', 'calls£1/minmoremobsemspobox45po139wa']",22,False,True,0,0.1830065359477124
+0,"['i', ""'m"", 'bruce', '&', 'amp', ';', 'fowler', 'i', ""'m"", 'mom', ""'s"", 'car', 'i', 'ca', ""n't"", 'park', '(', 'long', 'story', ')']",20,False,False,0,0.036585365853658534
+0,"['sending', 'greeting', 'joy', 'happiness', '.', 'do', 'gr8', 'evening']",8,False,True,0,0.03076923076923077
+0,"['*', 'was', 'nice', 'day', ',', 'impressively', ',', 'sensible', ',', 'went', 'home', 'early', 'feel', 'fine', '.', 'or', 'boring', '?', '!', 'when', ""'s"", ',', 'ca', ""n't"", 'remember', '.']",26,False,False,1,0.02142857142857143
+0,"['yup', 'song', 'bro', '.', 'no', 'creative', '.', 'neva', 'test', 'quality', '.', 'he', 'said', 'check', 'review', 'online', '.']",17,False,False,0,0.05405405405405406
+0,"['oh', 'dang', '!', 'i', ""n't"", 'mean', 'send', '!', 'lol', '!']",10,False,False,3,0.06382978723404255
+0,"['jolly', 'good', '!', 'by', 'way', ',', 'give', 'u', 'ticket', 'sat', 'eve', '7.30', '.', 'speak', 'x']",15,False,True,1,0.036585365853658534
+0,"['i', 're-met', 'alex', 'nichols', 'middle', 'school', 'turn', ""'s"", 'dealing', '!']",10,False,False,1,0.014084507042253521
+0,"['slaaaaave', '!', 'where', '?', 'must', 'i', 'summon', 'time', '?', 'do', ""n't"", 'wish', 'come', 'anymore', '?']",15,False,False,1,0.041666666666666664
+0,"['you', 'registered', 'sinco', 'payee', '.', 'log', 'icicibank.com', 'enter', 'urn', '&', 'lt', ';', '#', '&', 'gt', ';', 'confirm', '.', 'beware', 'fraud', '.', 'do', 'not', 'share', 'disclose', 'urn', 'anyone', '.']",28,False,False,0,0.0967741935483871
+0,"['u', 'coming', '2', 'pick', '?']",5,False,True,0,0.05263157894736842
+0,"['most', 'tiime', ""n't"", 'let', 'hug', ""'s"", ""n't"", 'break', 'tear', '.']",10,False,False,0,0.012658227848101266
+0,"['no', 'one', 'interested', '.', 'may', 'business', 'plan', '.']",8,False,False,0,0.044444444444444446
+0,"['mm', 'feeling', 'sleepy', '.', 'today', 'shall', 'get', 'dear']",8,False,False,0,0.018867924528301886
+0,"['awesome', 'question', 'cute', 'answer', ':', 'someone', 'asked', 'boy', '``', 'ur', 'life', '?', ""''"", '.', '.', 'he', 'smiled', '&', 'amp', ';', 'answered', ':', '.', '.', '``', 'she', 'fine', '!', ""''"", 'gudnite']",30,False,False,1,0.03816793893129771
+0,"['idc', 'get', ',', 'weaseling', 'way', 'shit', 'twice', 'row']",8,False,False,0,0.0
+0,"['&', 'lt', ';', '#', '&', 'gt', ';', 'great', 'loxahatchee', 'xmas', 'tree', 'burning', 'update', ':', 'totally', 'see', 'star']",17,False,False,0,0.0
+0,"['k', 'still', 'loving', '.']",4,False,False,0,0.038461538461538464
+1,"['someone', 'u', 'know', 'asked', 'dating', 'service', '2', 'contact', '!', 'cant', 'guess', '?', 'call', '09058091854', 'now', 'revealed', '.', 'po', 'box385', 'm6', '6wu']",21,False,True,1,0.1417910447761194
+0,"['how', 'long', 'get', 'reply', ',', 'defer', 'admission', 'til', 'next', 'semester']",10,False,False,0,0.014492753623188406
+0,"['sorry', 'sent', 'blank', 'msg', '.', 'yup', 'trying', '2', 'serious', 'studying', '.']",11,False,True,0,0.02702702702702703
+1,"['congratulations', 'ur', 'awarded', '500', 'cd', 'voucher', '125gift', 'guaranteed', '&', 'free', 'entry', '2', '100', 'wkly', 'draw', 'txt', 'music', '87066', 'tncs', 'www.ldew.com1win150ppmx3age16']",20,False,True,0,0.08
+0,"['hi', ',', 'please', 'get', '&', 'lt', ';', '#', '&', 'gt', ';', 'dollar', 'loan', '.', 'i.ll', 'pay', 'back', 'mid', 'february', '.', 'pls', '.']",22,False,False,0,0.03125
+0,"['no', '..', 'heard', 'abt', 'tat', '..']",6,False,False,0,0.043478260869565216
+0,"['[', '…', ']', 'anyway', ',', 'many', 'good', 'evening', 'u', '!']",10,False,False,1,0.0
+1,"['u', 'secret', 'admirer', 'looking', '2', 'make', 'contact', 'u-find', 'r', '*', 'reveal', 'think', 'ur', 'special-call', '09058094594']",15,False,True,0,0.03787878787878788
+0,"['dear', 'chechi', '.', 'did', 'talk']",5,False,False,0,0.05128205128205128
+0,"['i', ""'m"", 'office', '.', 'i', 'call', '&', 'lt', ';', '#', '&', 'gt', ';', 'min', ':', ')']",16,False,False,0,0.03773584905660377
+0,"['hey', '!', 'glad', 'u', 'r', 'better', '.', 'i', 'hear', 'u', 'treated', 'urself', 'digi', 'cam', ',', 'good', '?', 'we', 'r', '9pm', '.', 'have', 'fab', 'new', 'year', ',', 'c', 'u', 'coupla', 'wks', '!']",31,False,True,2,0.03597122302158273
+0,"['were', 'somewhere', 'fredericksburg']",3,False,False,0,0.0625
+0,"['today', 'accept', 'day', '..', 'u', 'accept', '?', 'brother', 'sister', 'lover', 'dear1', 'best1', 'clos1', 'lvblefrnd', 'jstfrnd', 'cutefrnd', 'lifpartnr', 'belovd', 'swtheart', 'bstfrnd', 'no', 'rply', 'mean', 'enemy']",24,False,True,0,0.16666666666666666
+1,"['sms', 'services', '.', 'inclusive', 'text', 'credit', ',', 'pls', 'goto', 'www.comuk.net', 'login=', '3qxj9', 'unsubscribe', 'stop', ',', 'extra', 'charge', '.', 'help', '08702840625.comuk', '.', '220-cm2', '9ae']",23,False,True,0,0.1518987341772152
+0,"['``', 'cheers', 'for', 'callin', 'babe.sozi', 'culdnt', 'talkbut', 'i', 'wannatell', 'u', 'details', 'later', 'wenwecan', 'chat', 'properly', 'x', ""''""]",17,False,False,0,0.8247422680412371
+0,"['oh', 'right', ',', 'ok', '.', 'i', ""'ll"", 'make', 'sure', 'load', 'work', 'day', '!', 'got', 'really', 'nasty', 'cough', 'today', 'dry', 'n', 'shot', 'really', 'help', '!']",24,False,False,2,0.013422818791946308
+0,"['it', ""'s"", 'ok', ',', 'least', 'armand', ""'s"", 'still', 'around']",9,False,False,0,0.02564102564102564
+0,"['ok', '...', 'but', 'said', ""'ve"", 'got', 'wisdom', 'teeth', 'hidden', 'inside', 'n', 'mayb', 'need', '2', 'remove', '.']",16,False,True,0,0.025974025974025976
+0,"['don', 'da', ':', ')', 'whats', 'plan', '?']",7,False,False,0,0.038461538461538464
+0,"['they', 'said', 'gon', 'na', 'snow', ',', 'start', 'around', '8', '9', 'pm', 'tonite', '!', 'they', 'predicting', 'inch', 'accumulation', '.']",18,False,True,1,0.017857142857142856
+0,"['ü', 'got', 'wat', 'buy', 'tell', 'u', 'ü', 'need', 'come', '.']",10,False,False,0,0.017543859649122806
+0,"['ok', '...', 'c', 'ya', '...']",5,False,False,0,0.15384615384615385
+1,"['this', '2nd', 'time', 'tried', '2', 'contact', 'u.', 'u', '£750', 'pound', 'prize', '.', '2', 'claim', 'easy', ',', 'call', '087187272008', 'now1', '!', 'only', '10p', 'per', 'minute', '.', 'bt-national-rate', '.']",27,False,True,1,0.05625
+0,"['hey', ""'ve"", 'booked', 'pilate', 'yoga', 'lesson', 'already', '...', 'haha']",9,False,False,0,0.03389830508474576
+0,"['wen', 'ur', 'lovable', 'bcums', 'angry', 'wid', 'u', ',', 'dnt', 'take', 'seriously', '..', 'coz', 'angry', 'childish', 'n', 'true', 'way', 'showing', 'deep', 'affection', ',', 'care', 'n', 'luv', '!', '..', 'kettoda', 'manda', '...', 'have', 'nice', 'day', 'da', '.']",35,False,False,1,0.01675977653631285
+0,"['it', ""'s"", 'justbeen', 'overa', 'week', 'since', 'broke', 'already', 'brain', 'going', 'mush', '!']",12,False,False,1,0.011904761904761904
+0,"['ok', '.']",2,False,False,0,0.3333333333333333
+0,"['anything', '...']",2,False,False,0,0.09090909090909091
+1,"['gr8', 'poly', 'tone', '4', 'all', 'mob', 'direct', '2u', 'rply', 'poly', 'title', '8007', 'eg', 'poly', 'breathe1', 'titles', ':', 'crazyin', ',', 'sleepingwith', ',', 'finest', ',', 'ymca', ':', 'getzed.co.uk', 'pobox365o4w45wq', '300p']",28,False,True,0,0.3875
+0,"['wah', 'lucky', 'man', '...', 'then', 'save', 'money', '...', 'hee', '...']",10,False,False,0,0.06521739130434782
+0,"['hi', ':', ')', 'finally', 'completed', 'course', ':', ')']",8,False,False,0,0.02702702702702703
+0,"['hi', 'yijue', '...', 'it', ""'s"", 'regarding', '3230', 'textbook', ""'s"", 'intro', 'algorithm', 'second', 'edition', '...', 'i', ""'m"", 'selling', '$', '50', '...']",20,False,True,0,0.024793388429752067
+1,"['this', '2nd', 'time', 'tried', '2', 'contact', 'u.', 'u', '750', 'pound', 'prize', '.', '2', 'claim', 'easy', ',', 'call', '08712101358', 'now', '!', 'only', '10p', 'per', 'min', '.', 'bt-national-rate']",26,False,True,1,0.058823529411764705
+0,"['we', 'walked', 'mom', '.', 'right', 'stagwood', 'pas', 'right', 'winterstone', 'left', 'victor', 'hill', '.', 'address', '&', 'lt', ';', '#', '&', 'gt', ';']",21,False,False,0,0.02727272727272727
+0,"['no', 'probs', 'hon', '!', 'how', 'u', 'doinat', 'mo', '?']",9,False,False,1,0.058823529411764705
+0,"['oooh', 'i', 'got', 'plenty', '!']",5,False,False,1,0.07407407407407407
+1,"['pdate_now', '-', 'double', 'min', '1000', 'txts', 'orange', 'tariff', '.', 'latest', 'motorola', ',', 'sonyericsson', '&', 'nokia', '&', 'bluetooth', 'free', '!', 'call', 'mobileupd8', '08000839402', 'call2optout/', '!', 'yhl']",25,False,True,2,0.1165644171779141
+0,"['all', 'well', 'slightly', 'disastrous', 'class', 'pm', 'fav', 'darling', '!', 'hope', 'day', 'ok.', 'coffee', 'wld', 'good', 'ca', ""n't"", 'stay', 'late', 'tomorrow', '.', 'same', 'time', '+', 'place', 'always', '?']",27,False,False,1,0.023809523809523808
+0,"['i', 'make', ',', 'squeezed', '&', 'lt', ';', '#', '&', 'gt', ';', 'buck', 'dad']",13,False,False,0,0.015625
+0,"['busy', '.', 'trying', 'finish', 'new', 'year', '.', 'i', 'looking', 'forward', 'finally', 'meeting', '...']",13,False,False,0,0.03409090909090909
+0,"['(', 'that', 'said', 'text', 'one', 'time', '?', ')']",8,False,False,0,0.023255813953488372
+0,"['new', 'theory', ':', 'argument', 'win', 'situation', ',', 'loses', 'person', '.', 'so', 'dont', 'argue', 'ur', 'friend', '..', '.', '.', '.', 'kick', '&', 'amp', ';', 'say', ',', 'i', ""'m"", 'always', 'correct', '.', '!']",31,False,False,1,0.13793103448275862
+1,"['+123', 'congratulations', '-', 'week', ""'s"", 'competition', 'draw', 'u', '£1450', 'prize', 'claim', 'call', '09050002311', 'b4280703', '.', 't', '&', 'cs/stop', 'sms', '08718727868', '.', 'over', '18', '150ppm']",24,False,True,0,0.04142011834319527
+1,"['win', ':', 'we', 'winner', '!', 'mr.', 't.', 'foley', 'ipod', '!', 'more', 'exciting', 'prize', 'soon', ',', 'keep', 'eye', 'ur', 'mobile', 'visit', 'www.win-82050.co.uk']",21,False,True,2,0.06818181818181818
+0,"['hahaha', '..', 'use', 'brain', 'dear']",5,False,False,0,0.037037037037037035
+0,"['pls', 'send', 'address', 'sir', '.']",5,False,False,0,0.034482758620689655
+0,"['k', '...', 'k', ':', ')', 'cant', 'come', 'search', 'job', ':', ')']",11,False,False,0,0.021739130434782608
+0,"['yeah', ',', 'probably', 'sure', '.', 'ilol', 'let', 'u', 'know', ',', 'personally', 'i', 'wuldnt', 'bother', ',', 'ur', 'goin', 'i', 'mite', 'well', '!', '!']",22,False,False,2,0.03225806451612903
+1,"['sms', 'auction', '-', 'a', 'brand', 'new', 'nokia', '7250', '4', 'auction', 'today', '!', 'auction', 'free', '2', 'join', '&', 'take', 'part', '!', 'txt', 'nokia', '86021', '!']",24,False,True,3,0.2605042016806723
+0,"['lmao', '!', 'nice', '1']",4,False,True,1,0.09090909090909091
+0,"['honey', 'boo', 'i', ""'m"", 'missing', 'u', '.']",7,False,False,0,0.08333333333333333
+0,"['ok', '...', 'take', 'ur', 'time', 'n', 'enjoy', 'ur', 'dinner', '...']",10,False,False,0,0.05128205128205128
+0,"['i', ""'m"", 'going', '2', 'orchard', 'laready', 'reaching', 'soon', '.', 'u', 'reaching', '?']",12,False,True,0,0.03278688524590164
+0,"['how', ""'s"", 'feel', '?', 'mr', '.', 'your', 'real', 'valentine', 'yo', 'valentine', 'even', 'tho', 'u', 'hardly', 'play', '!', '!']",18,False,False,2,0.054945054945054944
+0,"['you', 'gorgeous', '!', 'keep', 'pix', 'cumming', ':', ')', 'thank', '!']",10,False,False,2,0.018518518518518517
+1,"['dorothy', '@', 'kiefer.com', '(', 'bank', 'granite', 'issue', 'strong-buy', ')', 'explosive', 'pick', 'for', 'our', 'members', '*', '*', '*', '*', '*', 'up', 'over', '300', '%', '*', '*', '*', '*', '*', '*', '*', '*', '*', '*', '*', 'nasdaq', 'symbol', 'cdgt', 'that', '$', '5.00', 'per', '..']",42,False,True,0,0.28205128205128205
+0,"['ok.', 'every', 'night', 'take', 'warm', 'bath', 'drink', 'cup', 'milk', ""'ll"", 'see', 'work', 'magic', '.', 'you', 'still', 'need', 'loose', 'weight', '.', 'just', 'know']",22,False,False,0,0.028985507246376812
+1,"['please', 'call', 'customer', 'service', 'representative', 'freephone', '0808', '145', '4742', '9am-11pm', 'won', 'guaranteed', '£1000', 'cash', '£5000', 'prize', '!']",17,False,True,1,0.08843537414965986
+0,"['and', 'popping', '&', 'lt', ';', '#', '&', 'gt', ';', 'ibuprofen', 'help', '.']",12,False,False,0,0.022222222222222223
+0,"['pick', 'ur', 'fone', 'up', 'now', 'u', 'dumb', '?']",8,False,False,0,0.7407407407407407
+0,"['big', 'brother', '‘', 'really', 'scraped', 'barrel', 'shower', 'social', 'misfit']",9,False,False,0,0.013513513513513514
+0,"['am', 'going', 'take', 'bath', 'ill', 'place', 'key', 'window', ':', '-', ')']",11,False,False,0,0.019230769230769232
+0,"['good', 'morning', 'dear', '...........', 'have', 'great', '&', 'amp', ';', 'successful', 'day', '.']",12,False,False,0,0.06060606060606061
+0,"['ok', ""'ll"", 'let', 'noe', 'later', 'n', 'ask', 'call', 'u', 'tmr', '...']",11,False,False,0,0.018518518518518517
+1,"['ur', 'cash-balance', 'currently', '500', 'pound', '-', 'maximize', 'ur', 'cash-in', 'send', 'cash', '86688', '150p/msg', '.', 'cc', ':', '08708800282', 'hg/suite342/2lands', 'row/w1j6hl']",19,False,True,0,0.10810810810810811
+0,"['wat', 'ü', '?']",3,False,False,0,0.0625
+1,"['thanks', 'subscription', 'ringtone', 'uk', 'mobile', 'charged', '£5/month', 'please', 'confirm', 'replying', 'yes', 'no', '.', 'if', 'reply', 'no', 'charged']",17,False,True,0,0.08227848101265822
+1,"['+449071512431', 'urgent', '!', 'this', '2nd', 'attempt', 'contact', 'u', '!', 'u', 'won', '£1250', 'call', '09071512433', 'b4', '050703', 't', '&', 'csbcm4235wc1n3xx', '.', 'callcost', '150ppm', 'mobilesvary', '.', 'max£7', '.', '50']",27,False,True,2,0.16149068322981366
+0,"['hey', 'babe', ',', 'sorry', ""n't"", 'get', 'sooner', '.', 'gary', 'come', 'fix', 'cause', 'think', 'know', ""n't"", 'go', 'far', 'ptbo', 'say', 'cost', '&', 'lt', ';', '#', '&', 'gt', ';', 'buck', '.', 'i', ""n't"", 'know', 'might', 'cheaper', 'find', 'someone', '?', 'we', ""n't"", 'second', 'hand', 'machine', 'right', ',', 'let', 'know', 'want', 'babe']",48,False,False,0,0.01529051987767584
+0,"['i', 'ask', 'u', 'meeting', 'da', 'ge', 'tmr', 'nite', '...']",9,False,False,0,0.027777777777777776
+1,"['congratulations', 'ur', 'awarded', 'either', 'yr', 'supply', 'cds', 'virgin', 'records', 'mystery', 'gift', 'guaranteed', 'call', '09061104283', 'ts', '&', 'cs', 'www.smsco.net', '£1.50pm', 'approx', '3mins']",21,False,True,0,0.125
+0,"['cos', 'want', 'thing']",3,False,False,0,0.03333333333333333
+1,"['we', 'know', 'someone', 'know', 'fancy', '.', 'call', '09058097218', 'find', '.', 'pobox', '6', ',', 'ls15hb', '150p']",15,False,True,0,0.0891089108910891
+0,"['ron', 'say', 'fri', 'leh', '.', 'n', 'said', 'ding', 'tai', 'feng', 'cant', 'make', 'reservation', '.', 'but', 'said', 'wait', 'lor', '.']",19,False,False,0,0.03488372093023256
+0,"['happy', 'new', 'year', 'dear', 'brother', '.', 'i', 'really', 'miss', '.', 'just', 'got', 'number', 'decided', 'send', 'text', 'wishing', 'happiness', '.', 'abiola']",20,False,False,0,0.03496503496503497
+0,"['but', 'juz', 'remembered', 'got', 'ta', 'bathe', 'dog', 'today', '..']",9,False,False,0,0.02040816326530612
+0,"['just', 'seeing', 'missed', 'call', 'dear', 'brother', '.', 'do', 'gr8', 'day', '.']",11,False,True,0,0.03125
+0,"['u', 'still', 'havent', 'got', 'urself', 'jacket', 'ah', '?']",8,False,False,0,0.02631578947368421
+1,"['urgent', '!', 'call', '09066350750', 'landline', '.', 'your', 'complimentary', '4', '*', 'ibiza', 'holiday', '10,000', 'cash', 'await', 'collection', 'sae', 't', '&', 'cs', 'po', 'box', '434', 'sk3', '8wp', '150', 'ppm', '18+']",28,False,True,1,0.11842105263157894
+0,"['i', 'already', '..', 'sabarish', 'asked', 'go', '..']",7,False,False,0,0.023255813953488372
+0,"['nothing', ',', 'got', 'msg', 'frm', 'tht', 'unknown', '..']",8,False,False,0,0.02564102564102564
+0,"['nobody', 'decide', 'eat', 'dad', 'want', 'chinese']",6,False,False,0,0.038461538461538464
+0,"['huh', '...', 'hyde', 'park', 'mel', 'ah', ',', 'opps', ',', 'got', 'confused', '...', 'anyway', ',', 'tt', ""'s"", 'e', 'best', 'choice', 'den', 'juz', 'take', '...']",23,False,False,0,0.02654867256637168
+0,"['no', 'wonder', '...', 'cos', 'dun', 'rem', 'seeing', 'silver', 'car', '...', 'but', 'thk', 'saw', 'black', 'one', '...']",16,False,False,0,0.0375
+0,"['miss', 'call', 'miss', 'call', 'khelate', 'kintu', 'opponenter', 'miss', 'call', 'dhorte', 'lage', '.', 'thats', 'rule', '.', 'one', 'great', 'phone', 'receiving', 'quality', 'win', '.']",22,False,False,0,0.023809523809523808
+0,"['got', 'ur', 'mail', 'dileep.thank', 'muchand', 'look', 'forward', 'lot', 'support', '...', 'less', 'contact', ',', 'remember', 'one', 'venugopal', 'mentioned.tomorrow', 'late', ',', 'shall', 'try', 'come', 'till', 'there.goodnight', 'dear', '.']",26,False,False,0,0.00975609756097561
+0,"['?', 'i', 'miss', '!']",4,False,False,1,0.041666666666666664
+0,"['k', '..', 'k', ':', ')', '?', 'performed', '?']",8,False,False,0,0.023809523809523808
+0,"['god', ""'s"", 'love', 'limit', '.', 'god', ""'s"", 'grace', 'measure', '.', 'god', ""'s"", 'power', 'boundary', '.', 'may', 'u', 'god', ""'s"", 'endless', 'blessing', 'always', 'ur', 'life', '...', '!', '!', 'gud', 'ni8']",29,False,True,2,0.040268456375838924
+0,"['hey', 'r', 'watching', 'movie', 'tonight', ""'ll"", 'prob', 'b', 'home', 'early', '...']",11,False,False,0,0.015151515151515152
+0,"['fine', '.', 'do', 'remember', '.']",5,False,False,0,0.08
+0,"['hmm', '...', 'bad', 'news', '...', 'hype', 'park', 'plaza', '$', '700', 'studio', 'taken', '...', 'only', 'left', '2', 'bedrm-', '$', '900', '...']",20,False,True,0,0.05128205128205128
+0,"['g', 'say', 'never', 'answer', 'text', ',', 'confirm/deny']",7,False,False,0,0.020833333333333332
+0,"['yes', 'chatting', '.']",3,False,False,0,0.041666666666666664
+0,"['yes', ':', ')', 'last', 'week', ""'m"", 'taking', 'live', 'call', '.']",10,False,False,0,0.020833333333333332
+0,"['i', ""'ve"", 'reached', 'home', 'finally', '...']",6,False,False,0,0.03571428571428571
+0,"['k', ',', 'i', 'might', 'come', 'tonight', 'class', 'let', 'early']",9,False,False,0,0.034482758620689655
+0,"['k', 'i', ""'ll"", '4', '.']",5,False,True,0,0.08
+0,"['geeeee', '...', 'i', 'love', 'much', 'i', 'barely', 'stand']",8,False,False,0,0.058823529411764705
+0,"['anything', 'lar', '...']",3,False,False,0,0.06666666666666667
+1,"['shop', 'till', 'u', 'drop', ',', 'is', 'it', 'you', ',', 'either', '10k', ',', '5k', ',', '£500', 'cash', '£100', 'travel', 'voucher', ',', 'call', ',', '09064011000', '.', 'ntt', 'po', 'box', 'cr01327bt', 'fixedline', 'cost', '150ppm', 'mobile', 'vary']",33,False,True,0,0.16025641025641027
+0,"['ha', 'ha', '-', 'popped', 'loo', 'hello-ed', '.', 'hello', '!']",9,False,False,1,0.031746031746031744
+0,"['he', 'say', 'hi', 'get', 'as', 'back', 'south', 'tampa', '(', 'preferably', 'kegger', ')']",12,False,False,0,0.013333333333333334
+0,"['haha', '...', 'really', 'oh', '...', 'how', '?', 'then', 'deduct', 'lesson', 'tmr', '?']",12,False,False,0,0.05970149253731343
+0,"['are', 'around', 'still', 'asleep', '?', ':', 'v']",7,False,False,0,0.046511627906976744
+0,"['sorry', 'man', ',', 'stash', 'ran', 'dry', 'last', 'night', 'i', 'ca', ""n't"", 'pick', 'sunday']",13,False,False,0,0.02631578947368421
+0,"['hi', 'baby', 'im', 'cruisin', 'girl', 'friend', 'r', 'u', '2', '?', 'give', 'call', 'hour', 'home', 'thats', 'alright', 'fone', 'fone', 'love', 'jenny', 'xxx']",21,False,True,0,0.0
+0,"['how', 'noe', '...', 'did', 'ü', 'specify', 'da', 'domain', 'nusstu', '...', 'ü', 'still', 'sch', '...']",14,False,False,0,0.04477611940298507
+0,"['i', 'ca', ""n't"", ',', 'i', ""n't"", 'number', '!']",8,False,False,1,0.06060606060606061
+0,"['i', ""n't"", 'well', 'babe', ',', 'swollen', 'gland', 'throat', '...', 'what', 'end', '?']",12,False,False,0,0.023255813953488372
+0,"['can', 'ü', 'call', '10:10', 'make', 'sure', 'dat', ""'ve"", 'woken', '...']",10,False,True,0,0.017857142857142856
+0,"['my', 'supervisor', 'find', '4', 'one', 'lor', 'thk', 'student', '.', 'i', 'havent', 'ask', 'yet', '.', 'tell', 'u', 'aft', 'ask', '.']",19,False,True,0,0.031578947368421054
+0,"['k', ',', 'i', 'pick', 'another', '8th', ""'re"", 'done', '?']",9,False,True,0,0.043478260869565216
+0,"['hey', '!', 'i', 'want', '!', 'i', 'crave', '!', 'i', 'miss', '!', 'i', 'need', '!', 'i', 'love', ',', 'ahmad', 'saeed', 'al', 'hallaq', '...']",22,False,False,5,0.09375
+0,"['me', '!', 'have', 'lovely', 'night', 'xxx']",6,False,False,1,0.06451612903225806
+0,"['call', '&', 'lt', ';', '#', '&', 'gt', ';', 'min', 'thats', 'ok']",11,False,False,0,0.0
+0,"['just', ""n't"", 'decided', 'yet', 'eh', '?']",6,False,False,0,0.02857142857142857
+0,"['not', 'sure', 'i', 'stomach', '...']",5,False,False,0,0.05263157894736842
+0,"['u', 'sick', 'still', 'go', 'shopping', '?']",6,False,False,0,0.034482758620689655
+0,"['ok', 'problem', '...', 'yup', ""'m"", 'going', 'sch', '4', 'rem', 'correctly', '...']",11,False,True,0,0.03125
+0,"['what', 'mean', 'left', 'early', 'check', ',', 'co', ""'m"", 'working', '9-6', '.']",11,False,True,0,0.015384615384615385
+0,"['gud', 'mrng', 'dear', 'hav', 'nice', 'day']",6,False,False,0,0.03571428571428571
+0,"['you', 'give', 'u', 'back', 'id', 'proof', '&', 'lt', ';', '#', '&', 'gt', ';', 'r', '.', 'we', 'wont', 'allow', 'work', '.', 'we', 'come', 'home', 'within', 'day']",25,False,False,0,0.02654867256637168
+0,"['superb', 'thought-', '``', 'be', 'grateful', 'u', 'dont', 'everything', 'u', 'want', '.', 'that', 'mean', 'u', 'still', 'opportunity', 'happier', 'tomorrow', 'u', 'today', '.', '``', ':', '-', ')']",25,False,False,0,0.02702702702702703
+0,"['but', 'family', 'responding', 'anything', '.', 'now', 'room', 'went', 'home', 'diwali', 'one', 'called', 'coming', '.', 'it', 'make', 'feel', 'like', 'died', '.']",20,False,False,0,0.01948051948051948
+0,"['hi', 'mom', 'might', 'back', 'later', '&', 'lt', ';', '#', '&', 'gt', ';']",12,False,False,0,0.021739130434782608
+0,"['hi', 'happy', 'birthday', '.', 'hi', 'hi', 'hi', 'hi', 'hi', 'hi', 'hi']",11,False,False,0,0.05128205128205128
+0,"['babe', '?', 'i', 'lost', '...', ':', '-', '(']",8,False,False,0,0.08
+0,"['if', 'win', 'really', '1', 'side', 'long', 'time', '.']",8,False,True,0,0.022222222222222223
+0,"['of', 'course', '.', 'i', 'guess', 'god', ""'s"", 'got', 'hold', 'right', '.']",11,False,False,0,0.03636363636363636
+0,"['maybe', '?', '!', 'say', 'hi', 'find', 'got', 'card', '.', 'great', 'escape', 'wetherspoons', '?']",13,False,False,1,0.0375
+0,"['noooooooo', 'please', '.', 'last', 'thing', 'i', 'need', 'stress', '.', 'for', 'life', 'fair', '.']",13,False,False,0,0.05194805194805195
+1,"['your', 'unique', 'user', 'id', '1172', '.', 'for', 'removal', 'send', 'stop', '87239', 'customer', 'service', '08708034412']",14,False,True,0,0.0898876404494382
+0,"['how', 'money', '...', '...', 'money', 'aint', 'thing', '....', 'sha', '!']",10,False,False,1,0.02564102564102564
+1,"['xmas', 'offer', '!', 'latest', 'motorola', ',', 'sonyericsson', '&', 'nokia', '&', 'free', 'bluetooth', 'dvd', '!', 'double', 'mins', '&', '1000', 'txt', 'orange', '.', 'call', 'mobileupd8', '08000839402', 'call2optout/4qf2']",25,False,True,2,0.1509433962264151
+0,"['yes', '.', 'glad', 'made', '.']",5,False,False,0,0.05263157894736842
+0,"['i', ""'ve"", 'got', 'tea', '.', 'sure', 'flavour']",7,False,False,0,0.02040816326530612
+1,"['private', '!', 'your', '2003', 'account', 'statement', '07808247860', 'show', '800', 'un-redeemed', 's.', 'i.', 'm.', 'point', '.', 'call', '08719899229', 'identifier', 'code', ':', '40411', 'expires', '06/11/04']",23,False,True,1,0.11486486486486487
+0,"['derp', '.', 'which', 'worse', ',', 'dude', 'always', 'want', 'party', 'dude', 'file', 'complaint', 'three', 'drug', 'abuser', 'life']",16,False,False,0,0.015503875968992248
+0,"['it', ""'s"", 'cool', ',', 'last', 'little', '.', 'getting', 'time', 'soon', '?']",11,False,False,0,0.030303030303030304
+0,"['somebody', 'set', 'website', 'play', 'hold', 'em', 'using', 'eve', 'online', 'spacebucks']",10,False,False,0,0.0125
+0,"['okie', 'ü', 'wan', 'meet', 'bishan', '?', 'cos', 'bishan', '.', 'i', ""'m"", 'driving', 'today', '.']",14,False,False,0,0.04225352112676056
+0,"['it', ""'ll"", 'tough', ',', 'i', ""'ll"", 'i']",7,False,False,0,0.07142857142857142
+0,"['call', 'u', ""'re"", 'done', '...']",5,False,False,0,0.04
+0,"['have', ""n't"", 'seen', 'facebook', ',', 'huh', '?', 'lol', '!']",9,False,False,1,0.05714285714285714
+0,"['sorry', ',', 'i', ""'ll"", 'call', 'later', 'in', 'meeting', '.']",9,False,False,0,0.08823529411764706
+0,"['aiyar', 'sorry', 'lor', 'forgot', '2', 'tell', 'u', '...']",8,False,True,0,0.029411764705882353
+0,"['watching', 'cartoon', ',', 'listening', 'music', '&', 'amp', ';', 'eve', 'go', 'temple', '&', 'amp', ';', 'church', '..', 'what', 'u', '?']",19,False,False,0,0.021739130434782608
+0,"['yup', '...', 'i', 'havent', '...', 'you', 'want', 'go', 'yoga', '?', 'i', 'call', 'book']",13,False,False,0,0.045454545454545456
+0,"['i', ""'m"", 'tired', 'arguing', 'week', 'week', '.', 'do', 'want', ',', ""'ll"", '.']",12,False,False,0,0.01834862385321101
+0,"['if', 'belive', '.', 'come', 'home', '.']",6,False,False,0,0.05128205128205128
+0,"['here', 'got', 'lot', 'hair', 'dresser', 'fr', 'china', '.']",8,False,False,0,0.02564102564102564
+0,"['thinkin', 'someone', 'good', '.', 'no', 'drug']",6,False,False,0,0.038461538461538464
+0,"['i', 'want', 'lick', 'pussy', '...']",5,False,False,0,0.03125
+0,"['do', 'u', 'hav', 'frnd', 'name', 'ashwini', 'ur', 'college', '?']",9,False,False,0,0.020833333333333332
+0,"['tomorrow', 'going', 'theatre', '.', '.', '.', 'so', 'come', 'wherever', 'u', 'call', '.', '.', '.', 'tell', 'come', 'tomorrow']",17,False,False,0,0.02564102564102564
+0,"['the', 'world', 'running', 'still.maybe', 'feeling', ',', 'it.or', 'admit', ',', 'mad.then', 'correction', '?', 'let', 'call', 'life.and', 'keep', 'running', 'world', ',', 'may', 'u', 'r', 'also', 'running.lets', 'run', '.']",26,False,False,0,0.004424778761061947
+0,"['only', 'promise', 'getting', 'soon', '.', 'and', ""'ll"", 'text', 'morning', 'let', 'know', 'made', 'ok', '.']",14,False,False,0,0.04838709677419355
+0,"['my', 'darling', 'sister', '.', 'how', '.', 'when', ""'s"", 'school', 'resuming', '.', 'is', 'minimum', 'wait', 'period', 'reapply', '?', 'do', 'take', 'care']",20,False,False,0,0.04
+0,"['ok', '...', 'i', 'din', 'get', 'ur', 'msg', '...']",8,False,False,0,0.08
+0,"['can', 'mag', 'meeting', 'avo', 'point', '?']",6,False,False,0,0.020833333333333332
+0,"['your', 'gon', 'na', 'death', '.', 'i', ""'m"", 'gon', 'na', 'leave', 'note', 'say', 'robs', 'fault', '.', 'avenge', '.']",17,False,False,0,0.031914893617021274
+1,"['want', 'new', 'video', 'phone', '?', '750', 'anytime', 'network', 'min', '?', 'half', 'price', 'line', 'rental', 'free', 'text', '3', 'month', '?', 'reply', 'call', '08000930705', 'free', 'delivery']",24,False,True,0,0.034722222222222224
+1,"['tell', 'u', '2', 'call', '09066358152', 'claim', '£5000', 'prize', '.', 'u', '2', 'enter', 'ur', 'mobile', '&', 'personal', 'detail', '@', 'prompt', '.', 'careful', '!']",22,False,True,1,0.016666666666666666
+0,"['did', 'say', 'somebody', 'named', 'tampa']",5,False,False,0,0.02564102564102564
+0,"['short', 'but', 'cute', ':', '``', 'be', 'good', 'person', ',', 'dont', 'try', 'prove', ""''"", '.....', 'gud', 'mrng', '...']",17,False,False,0,0.0641025641025641
+1,"['summers', 'finally', '!', 'fancy', 'chat', 'flirt', 'sexy', 'single', 'yr', 'area', '?', 'to', 'get', 'matched', 'reply', 'summer', '.', 'free', '2', 'join', '.', 'optout', 'txt', 'stop', 'help08714742804']",25,False,True,1,0.15723270440251572
+0,"['ranjith', 'cal', 'drpd', 'deeraj', 'deepak', '5min', 'hold']",7,False,True,0,0.045454545454545456
+1,"['buy', 'space', 'invaders', '4', 'chance', '2', 'win', 'orig', 'arcade', 'game', 'console', '.', 'press', '0', 'games', 'arcade', '(', 'std', 'wap', 'charge', ')', 'see', 'o2.co.uk/games', '4', 'terms', '+', 'setting', '.', 'no', 'purchase']",30,False,True,0,0.09090909090909091
+0,"['yes', 'da', '.', 'any', 'plm', 'ur', 'office']",7,False,False,0,0.07142857142857142
+1,"['for', 'ur', 'chance', 'win', '£250', 'wkly', 'shopping', 'spree', 'txt', ':', 'shop', '80878', '.', 't', ""'s"", '&', 'c', ""'s"", 'www.txt-2-shop.com', 'custcare', '08715705022', ',', '1x150p/wk']",23,False,True,0,0.07936507936507936
+0,"['call', 'say', 'coming', 'today', 'ok', 'tell', 'fool', 'like', 'ok']",9,False,False,0,0.012195121951219513
+1,"['hot', 'live', 'fantasies', 'call', '08707509020', 'just', '20p', 'per', 'min', 'ntt', 'ltd', ',', 'po', 'box', '1327', 'croydon', 'cr9', '5wb', '0870', 'national', 'rate', 'call']",22,False,True,0,0.23770491803278687
+0,"['what', 'eat', 'fo', 'lunch', 'senor']",5,False,False,0,0.03125
+0,"['i', 'know', 'mood', 'today']",4,False,False,0,0.04
+1,"['ree', 'entry', '2', 'weekly', 'comp', 'chance', 'win', 'ipod', '.', 'txt', 'pod', '80182', 'get', 'entry', '(', 'std', 'txt', 'rate', ')', 't', '&', 'c', ""'s"", 'apply', '08452810073', 'detail', '18+']",27,False,True,0,0.04225352112676056
+0,"['i', ""'m"", 'sorry', '.', 'i', ""'ve"", 'joined', 'league', 'people', 'dont', 'keep', 'touch', '.', 'you', 'mean', 'great', 'deal', '.', 'you', 'friend', 'time', 'even', 'great', 'personal', 'cost', '.', 'do', 'great', 'week.|']",29,False,False,0,0.02702702702702703
+0,"['i', 'accidentally', 'deleted', 'message', '.', 'resend', 'please', '.']",8,False,False,0,0.04
+0,"['ok', 'i', ""'m"", 'gon', 'na', 'head', 'usf', 'like', 'fifteen', 'minute']",10,False,False,0,0.0392156862745098
+1,"['urgent', '!', 'you', '1', 'week', 'free', 'membership', '£100,000', 'prize', 'jackpot', '!', 'txt', 'word', ':', 'claim', 'no', ':', '81010', 't', '&', 'c', 'www.dbuk.net', 'lccltd', 'pobox', '4403ldnw1a7rw18']",25,False,True,2,0.25806451612903225
+0,"['ü', 'comin', 'fetch', 'u', 'oredi', '...']",6,False,False,0,0.03571428571428571
+0,"['what', 'plan', 'pongal', '?']",4,False,False,0,0.038461538461538464
+0,"['hi', 'shanil', ',', 'rakhesh', 'here.thanks', ',', 'exchanged', 'uncut', 'diamond', 'stuff.leaving', 'back', '.', 'excellent', 'service', 'dino', 'prem', '.']",17,False,False,0,0.05
+0,"['every', 'king', 'was', 'once', 'a', 'crying', 'baby', 'and', 'every', 'great', 'building', 'was', 'once', 'a', 'map', '..', 'not', 'imprtant', 'where', 'u', 'r', 'today', ',', 'but', 'where', 'u', 'wil', 'reach', 'tomorw', '.', 'gud', 'ni8']",32,False,True,0,0.26573426573426573
+0,"['nah', 'im', 'goin', '2', 'wrks', 'j', 'wot', 'bout', 'u', '?']",10,False,True,0,0.024390243902439025
+0,"['our', 'ride', 'equally', 'uneventful', '-', 'many', 'pesky', 'cyclist', 'around', 'time', 'night', ';', ')', '.']",14,False,False,0,0.010101010101010102
+1,"['you', 'nokia', '7250i', '.', 'this', 'get', 'win', 'free', 'auction', '.', 'to', 'take', 'part', 'send', 'nokia', '86021', '.', 'hg/suite342/2lands', 'row/w1jhl', '16+']",20,False,True,0,0.12
+1,"['free', '1st', 'week', '!', 'no1', 'nokia', 'tone', '4', 'ur', 'mob', 'every', 'week', 'txt', 'nokia', '8007', 'get', 'txting', 'tell', 'ur', 'mate', 'www.getzed.co.uk', 'pobox', '36504', 'w45wq', 'norm150p/tone', '16+']",26,False,True,1,0.11392405063291139
+0,"['we', 'stopped', 'get', 'ice', 'cream', 'go', 'back']",7,False,False,0,0.02
+0,"['dnt', 'wnt', 'tlk', 'wid', 'u']",5,False,False,0,0.0
+1,"['-pls', 'stop', 'bootydelious', '(', '32/f', ')', 'inviting', 'friend', '.', 'reply', 'yes-434', 'no-434', 'see', ':', 'www.sms.ac/u/bootydelious', 'stop', '?', 'send', 'stop', 'frnd', '62468']",21,False,True,0,0.20394736842105263
+0,"['can', '.', 'dunno', 'wat', 'get', '4', '...']",7,False,True,0,0.06666666666666667
+0,"['nope', ""'ll"", 'b', 'going', '2', 'sch', 'fri', 'quite', 'early', 'lor', 'co', 'mys', 'si', 'got', 'paper', 'da', 'morn', ':', '-', ')']",20,False,True,0,0.011494252873563218
+0,"['i', 'lost', '4', 'pound', 'since', 'doc', 'visit', 'last', 'week', 'woot', 'woot', '!', 'now', 'i', ""'m"", 'gon', 'na', 'celebrate', 'stuffing', 'face', '!']",21,False,True,2,0.03
+0,"['lol', 'i', 'know', '!', 'hey', 'someone', 'great', 'inpersonation', 'flea', 'forum', '.', 'i', 'love', '!']",14,False,False,2,0.04819277108433735
+0,"['there', 'bold', '2', '&', 'lt', ';', '#', '&', 'gt', ';', '.', 'is']",12,False,True,0,0.05128205128205128
+0,"['love', 'aathi', '..', 'love', 'u', 'lot', '..']",7,False,False,0,0.03571428571428571
+0,"['goodmorning', ',', 'grandfather', 'expired', '..', 'leave', 'today', '.']",8,False,False,0,0.017543859649122806
+0,"['orh', 'tot', 'u', 'say', 'still', 'dun', 'believe', '.']",8,False,False,0,0.023809523809523808
+0,"['your', 'opinion', '?', '1', '.', 'over', '2', '.', 'jada', '3', '.', 'kusruthi', '4', '.', 'lovable', '5', '.', 'silent', '6', '.', 'spl', 'character', '7', '.', 'not', 'matured', '8', '.', 'stylish', '9', '.', 'simple', 'pls', 'reply', '..']",35,False,True,0,0.08088235294117647
+0,"['nope', '...', 'c', 'ü', '...']",5,False,False,0,0.10526315789473684
+0,"['lil', 'fever', ':', ')', 'fine', ':', ')']",7,False,False,0,0.045454545454545456
+1,"['great', 'news', '!', 'call', 'freefone', '08006344447', 'claim', 'guaranteed', '£1000', 'cash', '£2000', 'gift', '.', 'speak', 'live', 'operator', 'now', '!']",18,False,True,2,0.16101694915254236
+0,"['ummma.will', 'call', 'check', 'in.our', 'life', 'begin', 'qatar', 'pls', 'pray', 'hard', '.']",11,False,False,0,0.011904761904761904
+0,"['yeah', 'sure', 'i', ""'ll"", 'leave', 'min']",6,False,False,0,0.06896551724137931
+0,"['7', 'wonder', 'my', 'world', '7th', 'you', '6th', 'ur', 'style', '5th', 'ur', 'smile', '4th', 'ur', 'personality', '3rd', 'ur', 'nature', '2nd', 'ur', 'sms', '1st', '``', 'ur', 'lovely', 'friendship', ""''"", '...', 'good', 'morning', 'dear']",31,False,True,0,0.13245033112582782
+0,"['y', 'lei', '?']",3,False,False,0,0.16666666666666666
+0,"['never', 'try', 'alone', 'take', 'weight', 'tear', 'come', 'ur', 'heart', 'fall', 'ur', 'eye', '...', 'always', 'remember', 'stupid', 'friend', 'share', '...', 'bslvyl']",20,False,False,0,0.12578616352201258
+0,"['no', ',', 'i', 'trying', 'weekend', ';', 'v']",7,False,False,0,0.08823529411764706
+0,"['otherwise', 'part', 'time', 'job', 'na-tuition', '..']",6,False,False,0,0.025
+0,"['princess', ',', 'kitty', 'shaved', 'natural', '?']",6,False,False,0,0.023809523809523808
+0,"['its', 'great', 'day', '.', 'do', 'beautiful', 'one', '.']",8,False,False,0,0.04
+0,"['don', 'know', '..', 'wait', 'check', '.']",6,False,False,0,0.03225806451612903
+1,"['check', 'out', 'choose', 'your', 'babe', 'videos', '@', 'sms.shsex.netun', 'fgkslpopw', 'fgkslpo']",10,False,False,0,0.14492753623188406
+1,"['8007', '25p', '4', 'alfie', 'moon', ""'s"", 'children', 'need', 'song', 'ur', 'mob', '.', 'tell', 'ur', 'm8s', '.', 'txt', 'tone', 'charity', '8007', 'nokias', 'poly', 'charity', 'polys', ':', 'zed', '08701417012', 'profit', '2', 'charity']",30,False,True,0,0.1686746987951807
+0,"['awesome', ',', 'i', 'remember', 'last', 'time', 'got', 'somebody', 'high', 'first', 'time', 'diesel', ':', 'v']",14,False,False,0,0.03409090909090909
+0,"['sounds', 'good', ',', 'keep', 'posted']",5,False,False,0,0.037037037037037035
+0,"['oh', 'rite', '.', 'well', 'im', 'with', 'my', 'best', 'mate', 'pete', ',', 'who', 'i', 'went', 'out', 'with', '4', 'a', 'week+', 'now', 'were', '2geva', 'again', '.', 'its', 'been', 'longer', 'than', 'a', 'week', '.']",31,False,True,0,0.7272727272727273
+1,"['well', 'done', '!', 'your', '4', '*', 'costa', 'del', 'sol', 'holiday', '£5000', 'await', 'collection', '.', 'call', '09050090044', 'now', 'toclaim', '.', 'sae', ',', 'tcs', ',', 'pobox334', ',', 'stockport', ',', 'sk38xh', ',', 'cost£1.50/pm', ',', 'max10mins']",32,False,True,1,0.18125
+0,"['``', 'hello-/', '@', 'drivby-:0quit', 'edrunk', 'sorry', 'iff', 'pthis', 'make', 'senrd-dnot', '^', 'dancce', '2', 'drum', 'n', 'basq', '!', 'ihave', 'fun', '2nhite', 'x', 'ro', 'xxxxxxx', ""''""]",24,False,True,1,0.007874015748031496
+0,['okie'],1,False,False,0,0.25
+0,"['perhaps', '*', 'much', 'easy', 'give', 'account', 'identification', ',', 'tomorrow', 'uni']",10,False,False,0,0.04878048780487805
+0,"['lol', 'great', 'im', 'getting', 'hungry', '.']",6,False,False,0,0.03125
+1,"['u', '447801259231', 'secret', 'admirer', 'looking', '2', 'make', 'contact', 'u-find', 'r', '*', 'reveal', 'think', 'ur', 'special-call', '09058094597']",16,False,True,0,0.034482758620689655
+0,"['you', 'study', 'alone', 'without', 'anyones', 'help', '.', 'if', 'cant', 'need', 'study', '.']",12,False,False,0,0.025974025974025976
+0,"['why', 'want', 'talk']",3,False,False,0,0.037037037037037035
+0,"['but', 'haf', 'enuff', 'space', 'got', 'like', '4', 'mb', '...']",9,False,True,0,0.02631578947368421
+0,"['night', 'ended', 'another', 'day', ',', 'morning', 'come', 'special', 'way', '.', 'may', 'smile', 'like', 'sunny', 'ray', 'leaf', 'worry', 'blue', 'blue', 'bay', '.', 'gud', 'mrng']",23,False,False,0,0.019230769230769232
+1,"['1st', 'wk', 'free', '!', 'gr8', 'tone', 'str8', '2', 'u', 'wk', '.', 'txt', 'nokia', 'on', '8007', 'classic', 'nokia', 'tone', 'hit', 'on', '8007', 'polys', '.', 'nokia/150p', 'poly/200p', '16+']",26,False,True,1,0.16546762589928057
+0,"['ya', ',', 'told', '..', 'asking', 'wats', 'matter', '?']",8,False,False,0,0.02702702702702703
+0,"['thanks', 'chikku', '..', ':', '-', ')', 'gud', 'nyt', ':', '-', '*']",11,False,False,0,0.034482758620689655
+0,"['wat', 'happened', 'cruise', 'thing']",4,False,False,0,0.03125
+0,"['where', '@']",2,False,False,0,0.14285714285714285
+0,"['i', ""'m"", 'town', ""'ll"", 'jus', 'take', 'mrt', 'later', '.']",9,False,False,0,0.020833333333333332
+0,"['what', 'u', 'want', 'come', 'back', '?', '.a', 'beautiful', 'necklace', 'token', 'heart', 'you.thats', 'give', 'only', 'my', 'wife', 'of', 'my', 'liking.be', 'that', 'and', 'see', '..', 'no', 'one', 'give', 'that.dont', 'call', 'me.i', 'wait', 'till', 'come', '.']",33,False,False,0,0.17272727272727273
+0,"['now', 'reached', 'home', '.', '.', '.', 'i', 'tired', '.', '.', 'i', 'come', 'tomorro']",13,False,False,0,0.04225352112676056
+0,"['delhi', 'chennai', 'still', 'silent', '.']",5,False,False,0,0.03225806451612903
+0,"['when', 'u', 'love', 'someone', 'dont', 'make', 'love', 'u', 'much', 'u', '.', 'but', 'love', 'much', 'dont', 'want', 'loved', 'anyone', 'except', '...', 'gud', 'nit', '.']",23,False,False,0,0.033783783783783786
+1,"['great', 'new', 'offer', '-', 'double', 'mins', '&', 'double', 'txt', 'best', 'orange', 'tariff', 'and', 'get', 'latest', 'camera', 'phone', '4', 'free', '!', 'call', 'mobileupd8', 'free', '08000839402', 'now', '!', '2stoptxt', 't', '&', 'cs']",30,False,True,2,0.21875
+0,"['hope', 'good', 'week', '.', 'just', 'checking']",6,False,False,0,0.04081632653061224
+1,"['urgent', '!', 'your', 'mobile', 'no', '*', '*', '*', '*', '*', '*', '*', '*', '*', '*', '*', 'won', '£2,000', 'bonus', 'caller', 'prize', '02/06/03', '!', 'this', '2nd', 'attempt', 'reach', 'you', '!', 'call', '09066362220', 'asap', '!', 'box97n7qp', ',', '150ppm']",36,False,True,4,0.18354430379746836
+1,"['from', 'next', 'month', 'get', 'upto', '50', '%', 'more', 'calls', '4', 'ur', 'standard', 'network', 'charge', '2', 'activate', 'call', '9061100010', 'c', 'wire3.net', '1st4terms', 'pobox84', 'm26', '3uz', 'cost', '£1.50', 'min', 'mobcudb']",28,False,True,0,0.09937888198757763
+0,"['yunny', '...', 'i', ""'m"", 'goin', 'late']",6,False,False,0,0.07142857142857142
+0,"['umma', 'life', 'vava', 'umma', 'love', 'lot', 'dear']",7,False,False,0,0.022727272727272728
+0,"['i', 'sent', 'maga', 'money', 'yesterday', 'oh', '.']",7,False,False,0,0.024390243902439025
+0,"['somebody', 'go', 'andros', 'steal', 'ice']",5,False,False,0,0.023809523809523808
+0,"['ok', '..']",2,False,False,0,0.25
+0,"['we', ""'re"", 'done', '...']",4,False,False,0,0.07692307692307693
+0,"['hmm', '...', 'uncle', 'informed', ""'s"", 'paying', 'school', 'directly', '.', 'so', 'pls', 'buy', 'food', '.']",14,False,False,0,0.023255813953488372
+0,"['that', 'seems', 'unnecessarily', 'affectionate']",4,False,False,0,0.02702702702702703
+0,"['come', 'back', 'to', 'tampa', 'ffffuuuuuuu']",5,False,False,0,0.8666666666666667
+0,"['much', 'better', 'thanks', 'lol']",4,False,False,0,0.038461538461538464
+1,"['had', 'mobile', '11', 'month', '?', 'u', 'r', 'entitled', 'update', 'latest', 'colour', 'mobile', 'camera', 'free', '!', 'call', 'the', 'mobile', 'update', 'co', 'free', '08002986030']",22,False,True,1,0.09090909090909091
+0,"['well', ',', ""'m"", 'glad', ""n't"", 'find', 'totally', 'disagreeable', '...', 'lol']",10,False,False,0,0.03225806451612903
+0,"['jay', 'want', 'work', 'first', ',', ""'s"", '4', 'sound', '?']",9,False,True,0,0.023255813953488372
+0,"['i', 'know', 'complain', 'num', '..', 'bettr', 'directly', 'go', 'bsnl', 'offc', 'nd', 'apply', '..']",13,False,False,0,0.013513513513513514
+0,"['i', ""n't"", 'know', ',', 'thing', ""'s"", 'wrong', 'everyso', 'often', ',', 'panicks', 'start', 'goin', 'bout', 'bein', 'good', 'enough', '…']",18,False,False,0,0.009433962264150943
+0,"['love', 'aathi', '..', 'love', 'u', 'lot', '..']",7,False,False,0,0.03571428571428571
+0,"['lol', '.', 'u', 'trust', '.']",5,False,False,0,0.08695652173913043
+0,"['raji', '..', 'pls', 'favour', '.', 'pls', 'convey', 'birthday', 'wish', 'nimya', '.', 'pls', '.', 'today', 'birthday', '.']",16,False,False,0,0.06451612903225806
+0,"['hiya', 'hows', 'going', 'sunny', 'africa', '?', 'hope', 'u', 'r', 'avin', 'good', 'time', '.', 'give', 'big', 'old', 'silver', 'back', 'big', 'kiss', '.']",21,False,False,0,0.0
+0,"['i', 'many', 'dependent']",3,False,False,0,0.045454545454545456
+0,"['e', 'admin', 'building', '?', 'i', 'might', 'b', 'slightly', 'earlier', '...', 'i', ""'ll"", 'call', 'u', ""'m"", 'reaching', '...']",17,False,False,0,0.03488372093023256
+1,"['new', 'mobiles', '2004', ',', 'must', 'go', '!', 'txt', ':', 'nokia', 'no', ':', '89545', '&', 'collect', 'today', '!', 'from', 'only', '£1', '.', 'www.4-tc.biz', '2optout', '087187262701.50gbp/mtmsg18', 'txtauction', '.']",26,False,True,2,0.19736842105263158
+0,"['mmmmmmm', '*', 'snuggle', '*', '...', '*', 'deep', 'contented', 'sigh', '*', '...', '*', 'whisper', '*', '...', 'i', 'fucking', 'love', 'much', 'i', 'barely', 'stand', '...']",23,False,False,0,0.024193548387096774
+0,"['oooh', 'bed', 'ridden', 'ey', '?', 'what', 'you', 'thinking', '?']",9,False,False,0,0.1111111111111111
+1,"['you', '1', 'new', 'voicemail', '.', 'please', 'call', '08719181513', '.']",9,False,True,0,0.04
+0,"['somewhere', 'beneath', 'pale', 'moon', 'light', 'someone', 'think', 'u', 'dream', 'come', 'true', '...', 'goodnite', '&', 'amp', ';', 'sweet', 'dream']",18,False,False,0,0.0
+0,"['i', 'send', 'print', 'out', 'da', '.']",6,False,False,0,0.038461538461538464
+1,"['we', 'tried', 'contact', 'reply', 'offer', 'video', 'phone', '750', 'anytime', 'network', 'min', 'half', 'price', 'line', 'rental', 'camcorder', 'reply', 'call', '08000930705']",19,False,True,0,0.05806451612903226
+0,"['i', 'know', 'i', ""'m"", 'lacking', 'particular', 'dramastorm', ""'s"", 'detail', 'part', 'i', ""'m"", 'worried']",13,False,False,0,0.02608695652173913
+0,"['k', ':', ')', 'k', '..', 'good', ':', ')', 'going', '?']",10,False,False,0,0.02857142857142857
+0,"['aiyah', 'u', 'ok', 'already', 'lar', '.', 'e', 'nydc', 'wheellock', '?']",10,False,False,0,0.041666666666666664
+1,"['enjoy', 'jamster', 'videosound', 'gold', 'club', 'credit', '2', 'new', 'videosounds+2', 'logos+musicnews', '!', 'get', 'fun', 'jamster.co.uk', '!', '16+only', 'help', '?', 'call', ':', '09701213186']",21,False,True,2,0.012269938650306749
+1,"['dating', ':', 'two', '.', 'only', 'started', 'sent', 'text', 'talk', 'sport', 'radio', 'last', 'week', '.', 'any', 'connection', 'think', 'coincidence', '?']",19,False,False,0,0.014388489208633094
+0,"['awesome', ',', 'plan', 'get', 'time', 'like', '&', 'lt', ';', '#', '&', 'gt', ';', ',', 'i', ""'ll"", 'text', 'detail', 'wee', 'bit']",20,False,False,0,0.021505376344086023
+0,"['okie', '...']",2,False,False,0,0.14285714285714285
+1,"['as', 'valued', 'customer', ',', 'i', 'pleased', 'advise', 'following', 'recent', 'review', 'mob', 'no', '.', 'awarded', '£1500', 'bonus', 'prize', ',', 'call', '09066364589']",20,False,True,0,0.039473684210526314
+0,"['it', 'didnt', 'work', 'oh', '.', 'ok', 'goodnight', '.', 'i.ll', 'fix', 'ready', 'time', 'wake', '.', 'you', 'dearly', 'missed', 'good', 'night', 'sleep', '.']",21,False,False,0,0.0273972602739726
+0,"['did', ""n't"", 'get', 'hep', 'b', 'immunisation', 'nigeria', '.']",8,False,False,0,0.022222222222222223
+0,"['how', 'txting', 'driving']",3,False,False,0,0.038461538461538464
+1,"['welcome', 'select', ',', 'o2', 'service', 'added', 'benefit', '.', 'you', 'call', 'specially', 'trained', 'advisor', 'free', 'mobile', 'dialling', '402', '.']",18,False,True,0,0.05714285714285714
+0,"['see', 'forwarding', 'message', 'proof']",4,False,False,0,0.027777777777777776
+0,"['hey', 'there', 'babe', ',', 'how', 'u', 'doin', '?', 'wot', 'u', 'up', '2', '2nite', 'love', 'annie', 'x', '.']",17,False,True,0,0.6896551724137931
+1,"['hack', 'chat', '.', 'get', 'backdoor', 'entry', '121', 'chat', 'room', 'fraction', 'cost', '.', 'reply', 'neo69', 'call', '09050280520', ',', 'subscribe', '25p', 'pm', '.', 'dps', ',', 'bcm', 'box', '8027', 'ldn', ',', 'wc1n3xx']",29,False,True,0,0.07453416149068323
+0,"['did', 'either', 'idea', ""'s"", '?', 'do', 'know', 'anyplaces', 'something', '?']",10,False,False,0,0.02631578947368421
+0,"['*', 'you', 'gon', 'na', 'ring', 'weekend', 'wot', '?']",8,False,False,0,0.02702702702702703
+0,"['if', 'let', ',', 'want', 'house', '8am', '.']",7,False,True,0,0.018867924528301886
+0,"['fair', 'enough', ',', 'anything', 'going', '?']",6,False,False,0,0.03225806451612903
+0,"['i', 'need', '...', 'coz', 'never', 'go']",6,False,False,0,0.0625
+0,"['hmmm', '...', 'guess', 'go', '4', 'kb', 'n', 'power', 'yoga', '...', 'haha', ',', 'dunno', 'tahan', 'power', 'yoga', 'anot', '...', 'thk', 'got', 'lo', 'oso', ',', 'forgot', 'liao', '...']",26,False,True,0,0.03361344537815126
+0,"['buzz', '!', 'hey', ',', 'love', '!', 'i', 'think', 'hope', 'day', 'go', 'well', '.', 'did', 'sleep', '?', 'i', 'miss', 'babe', '.', 'i', 'long', 'moment', 'together', '*', 'loving', 'smile', '*']",28,False,False,2,0.04430379746835443
+0,"['i', 'wait', '4', 'ü', 'inside', 'da', 'car', 'park', '...']",9,False,True,0,0.03125
+0,"['bring', 'got']",2,False,False,0,0.045454545454545456
+0,"['can', 'pls', 'pls', 'send', 'mail', 'know', 'relative', 'coming', 'deliver', '?', 'all', 'know', 'cost', ',', 'risk', ',', 'benefit', 'anything', 'else', '.', 'thanks', '.']",22,False,False,0,0.01935483870967742
+0,"['no', '.', 'on', 'way', 'home', '.', 'so', 'long', 'dry', 'spell', 'season', 'would']",12,False,False,0,0.03529411764705882
+0,"['edison', 'rightly', 'said', ',', '``', 'a', 'fool', 'ask', 'question', 'wise', 'man', 'answer', ""''"", 'now', 'know', 'u', 'speechless', 'viva', '..', 'gm', ',', 'gn', ',', 'ge', ',', 'gnt', ':', '-', ')']",29,False,False,0,0.09032258064516129
+0,"['you', 'said', '.', 'no', 'problem', '.', 'when', '.', 'let', 'know', '.']",11,False,False,0,0.07142857142857142
+0,"['i', 'cant', 'pick', 'phone', 'right', '.', 'pls', 'send', 'message']",9,False,False,0,0.0392156862745098
+0,"['``', 'hey', 'das', 'cool', '...', 'iknow', 'all', '2', 'wellda', 'peril', 'of', 'studentfinancial', 'crisis', '!', 'spk', '2', 'u', 'l8r', '.', ""''""]",20,False,True,1,0.7195121951219512
+0,"['tell', 'reached']",2,False,False,0,0.045454545454545456
+0,"['its', 'worse', 'us', 'half', 'way', 'stop', '.', 'its', 'better', 'complete', '.']",11,False,False,0,0.02631578947368421
+0,"['how', '.', 'its', 'age', '.', 'how', ""'s"", 'abj']",8,False,False,0,0.08108108108108109
+0,"['dunno', 'juz', 'askin', 'co', 'got', 'card', 'got', '20', '%', '4', 'salon', 'called', 'hair', 'sense', 'tot', ""'s"", 'da', 'one', 'ü', 'cut', 'ur', 'hair', '.']",23,False,True,0,0.009009009009009009
+1,"['do', 'realize', '40', 'year', ',', ""'ll"", 'thousand', 'old', 'lady', 'running', 'around', 'tattoo', '?']",13,False,True,0,0.00980392156862745
+0,"['aaooooright', 'work', '?']",3,False,False,0,0.03571428571428571
+0,"['ok', 'need', 'tell', 'anything', 'going', 'sleep', 'good', 'night']",8,False,False,0,0.015151515151515152
+0,"['you', 'know', 'hook', 'mean', 'right', '?']",6,False,False,0,0.029411764705882353
+0,"['do', 'u', 'ever', 'get', 'song', 'stuck', 'head', 'reason', 'wo', ""n't"", 'go', 'away', 'til', 'u', 'listen', 'like', '5', 'time', '?']",19,False,True,0,0.009345794392523364
+0,"['yeah', 'confirmed', 'staying', 'weekend']",4,False,False,0,0.02127659574468085
+1,"['want', 'explicit', 'sex', '30', 'sec', '?', 'ring', '02073162414', '!', 'costs', '20p/min']",11,False,True,1,0.09230769230769231
+0,"['goodnight', 'da', 'thangam', 'i', 'really', 'miss', 'u', 'dear', '.']",9,False,False,0,0.047619047619047616
+0,"['cool', 'tyler', 'take', ""'re"", 'gon', 'na', 'buy', 'drop', 'place', 'later', 'tonight', '.', 'our', 'total', 'order', 'quarter', ',', 'got', 'enough', '?']",20,False,False,0,0.006622516556291391
+1,"['sms', '.', 'ac', 'sun0819', 'post', 'hello', ':', ""''"", 'you', 'seem', 'cool', ',', 'wanted', 'say', 'hi', '.', 'hi', '!', '!', '!', ""''"", 'stop', '?', 'send', 'stop', '62468']",26,False,True,3,0.1827956989247312
+0,"['er', 'yep', 'sure', '.', 'props', '?']",6,False,False,0,0.10526315789473684
+0,"['dun', 'need', 'use', 'dial', 'juz', 'open', 'da', 'browser', 'n', 'surf', '...']",11,False,False,0,0.018867924528301886
+0,"['jokin', 'lar', '...', ':', '-', ')', 'depends', 'phone', 'father', 'get', 'lor', '...']",12,False,False,0,0.014492753623188406
+0,"['s', '..', 'antha', 'num', 'corrct', 'dane']",6,False,False,0,0.041666666666666664
+0,"['sweet', ',', 'may', 'may', 'go', '4u', 'meet', 'carlos', 'gauge', 'patty', ""'s"", 'interest']",12,False,True,0,0.024390243902439025
+0,"['dear', ',', 'take', 'care', '.', 'i', 'reaching', 'home.love', 'u', 'lot', '.']",11,False,False,0,0.037037037037037035
+0,"['how', 'plan', 'manage']",3,False,False,0,0.03333333333333333
+0,"['aight', ',', 'call', ""'re"", 'close']",5,False,False,0,0.03125
+0,"['sorry', 'cant', 'take', 'call', 'right', '.', 'it', 'happens', 'r', '2waxsto', 'wat', 'want', '.', 'she', 'come', 'ill', 'get', 'medical', 'insurance', '.', 'and', ""'ll"", 'able', 'deliver', 'basic', 'care', '.', 'i', ""'m"", 'currently', 'shopping', 'right', 'medical', 'insurance', '.', 'so', 'give', 'til', 'friday', 'morning', '.', 'thats', 'i.ll', 'see', 'major', 'person', 'guide', 'right', 'insurance', '.']",50,False,True,0,0.019021739130434784
+1,"['themob', '>', 'check', 'newest', 'selection', 'content', ',', 'games', ',', 'tones', ',', 'gossip', ',', 'babe', 'sport', ',', 'keep', 'mobile', 'fit', 'funky', 'text', 'wap', '82468']",23,False,True,0,0.07246376811594203
+1,"['u', 'secret', 'admirer', 'looking', '2', 'make', 'contact', 'u-find', 'r', '*', 'reveal', 'think', 'ur', 'special-call', '09058094565']",15,False,True,0,0.03787878787878788
+0,"['eh', 'u', 'send', 'wrongly', 'lar', '...']",6,False,False,0,0.041666666666666664
+1,"['you', 'winner', 'u', 'specially', 'selected', '2', 'receive', '£1000', 'cash', '4', '*', 'holiday', '(', 'flight', 'inc', ')', 'speak', 'live', 'operator', '2', 'claim', '0871277810810']",22,False,True,0,0.013793103448275862
+0,"['i', ""'m"", 'work', '.', 'please', 'call']",6,False,False,0,0.08333333333333333
+0,"['convey', 'regard']",2,False,False,0,0.041666666666666664
+0,"['say', 'slowly.', '?', 'god', ',', 'i', 'love', 'you', '&', 'amp', ';', 'i', 'need', 'you', ',', 'clean', 'my', 'heart', 'with', 'your', 'blood.send', 'ten', 'special', 'people', '&', 'amp', ';', 'u', 'c', 'miracle', 'tomorrow', ',', ',', 'pls', ',', 'pls', '...']",37,False,False,0,0.2883435582822086
+0,"['....', 'photoshop', 'make', 'computer', 'shut', '.']",6,False,False,0,0.0
+1,"['how', 'getting', 'touch', 'folk', 'waiting', 'company', '?', 'just', 'txt', 'back', 'name', 'age', 'opt', '!', 'enjoy', 'community', '(', '150p/sms', ')']",19,False,True,1,0.09848484848484848
+0,"['anything', 'lor', 'go', 'go', 'lor', '...']",6,False,False,0,0.022727272727272728
+0,"['dunno', ',', 'dad', 'said', 'coming', 'home', '2', 'bring', 'u', '4', 'lunch', '.', 'yup', 'go', 'w', 'u', 'lor', '.', 'i', 'call', 'u', 'reach', 'school', 'lor', '...']",25,False,True,0,0.02702702702702703
+0,"['oh', 'really', '?', 'perform', ',', 'write', 'paper', ',', 'go', 'movie', 'and', 'home', 'midnight', ',', 'huh', '?']",16,False,False,0,0.05128205128205128
+0,"['1', ""'s"", 'reach', 'home', 'call', '.']",6,False,True,0,0.0
+0,"['our', 'prasanth', 'ettans', 'mother', 'passed', 'away', 'last', 'night', '.', 'just', 'pray', 'family', '.']",13,False,False,0,0.0375
+1,"['call', 'germany', '1', 'penny', 'per', 'minute', '!', 'call', 'fixed', 'line', 'via', 'access', 'number', '0844', '861', '85', '85', '.', 'no', 'prepayment', '.', 'direct', 'access', '!']",24,False,True,2,0.0390625
+0,"['yo', 'around', '?', 'a', 'friend', 'mine', ""'s"", 'lookin', 'pick', 'later', 'tonight']",11,False,False,0,0.03076923076923077
+0,"['in', 'end', 'might', 'still', 'vomit', 'okay', '.', 'not', 'everything', 'come', '.']",11,False,False,0,0.02631578947368421
+0,"['gam', 'gone', 'outstanding', 'inning', '.']",5,False,False,0,0.02857142857142857
+1,"['free', 'game', '.', 'get', 'rayman', 'golf', '4', 'free', 'o2', 'games', 'arcade', '.', '1st', 'get', 'ur', 'game', 'setting', '.', 'reply', 'post', ',', 'save', '&', 'activ8', '.', 'press', '0', 'key', 'arcade', '.', 'termsapply']",31,False,True,0,0.1830065359477124
+1,"['you', '1', 'new', 'voicemail', '.', 'please', 'call', '08719181503']",8,False,True,0,0.04081632653061224
+0,"['i', 'love', 'u', '2', 'babe', '!', 'r', 'u', 'sure', 'everything', 'alrite', '.', 'is', 'idiot', '?', 'txt', 'bak', 'girlie']",18,False,True,1,0.047619047619047616
+1,"['want', 'explicit', 'sex', '30', 'sec', '?', 'ring', '02073162414', '!', 'costs', '20p/min', 'gsex', 'pobox', '2667', 'wc1n', '3xx']",16,False,True,1,0.18888888888888888
+0,"['are', 'happy', 'baby', '?', 'are', 'alright', '?', 'did', 'take', 'job', '?', 'i', 'hope', 'fine', '.', 'i', 'send', 'kiss', 'make', 'smile', 'across', 'sea', '...', '*', 'kiss', '*', '*', 'kiss', '*']",29,False,False,0,0.032467532467532464
+0,"['watching', 'tv', '.', 'i', 'got', 'new', 'job', ':', ')']",9,False,False,0,0.06060606060606061
+1,"['urgent', '!', 'we', 'trying', 'contact', 'u.', 'todays', 'draw', 'show', '£800', 'prize', 'guaranteed', '.', 'call', '09050003091', 'land', 'line', '.', 'claim', 'c52', '.', 'valid', '12hrs']",23,False,True,1,0.1464968152866242
+0,"['s', ':', ')', '8', 'min', 'go', 'lunch', ':', ')']",9,False,True,0,0.038461538461538464
+0,"['ya', 'cant', 'display', 'internal', 'sub', 'got', 'ta', 'extract']",8,False,False,0,0.016666666666666666
+0,"['reason', 'team', 'budget', 'available', 'last', 'buy', 'unsold', 'player', 'base', 'rate', '..']",11,False,False,0,0.010416666666666666
+0,"['sorry', ',', 'i', ""'ll"", 'call', 'later']",6,False,False,0,0.09090909090909091
+0,"['i', 'donno', 'gene', 'something']",4,False,False,0,0.02631578947368421
+1,"['as', 'valued', 'customer', ',', 'i', 'pleased', 'advise', 'following', 'recent', 'review', 'mob', 'no', '.', 'awarded', '£1500', 'bonus', 'prize', ',', 'call', '09066368470']",20,False,True,0,0.039473684210526314
+0,"['ok', 'lor', 'go', 'tog', 'lor', '...']",6,False,False,0,0.03571428571428571
+0,"['i', 'wont', 'anything', 'de', '.']",5,False,False,0,0.045454545454545456
+0,"['does', 'cinema', 'plus', 'drink', 'appeal', 'tomo', '?', '*', 'is', 'fr', 'thriller', 'director', 'like', 'mac', '8.30', '.']",16,False,True,0,0.021739130434782608
+0,"['dhoni', 'luck', 'win', 'big', 'title.so', 'win', ':', ')']",8,False,False,0,0.018518518518518517
+0,"['macha', 'dont', 'feel', 'upset.i', 'assume', 'mindset.believe', 'one', 'evening', 'wonderful', 'plan', 'us.let', 'life', 'begin', 'again.call', 'anytime']",15,False,False,0,0.1111111111111111
+0,"['lol', 'i', 'take', '.', 'member', 'i', 'said', 'aunt', 'flow', ""n't"", 'visit', '6', 'month', '?', 'it', ""'s"", 'cause', 'i', 'developed', 'ovarian', 'cyst', '.', 'bc', 'way', 'shrink', '.']",26,False,True,0,0.0392156862745098
+1,"['freemsg', 'today', ""'s"", 'day', 'ready', '!', 'i', ""'m"", 'horny', '&', 'live', 'town', '.', 'i', 'love', 'sex', 'fun', '&', 'game', '!', 'netcollex', 'ltd', '08700621170150p', 'per', 'msg', 'reply', 'stop', 'end']",28,False,True,2,0.05263157894736842
+0,"['he', ""'s"", 'adult', 'would', 'learn', 'experience', '.', 'there', ""'s"", 'real', 'danger', '.', 'i', 'dont', 'like', 'peep', 'using', 'drug', 'dont', 'need', '.', 'but', 'comment']",23,False,False,0,0.02857142857142857
+0,"['i', '.', 'but', 'tell', 'quite', 'long', ',', 'co', ""n't"", 'finish', 'film', 'yet', '...']",13,False,False,0,0.028169014084507043
+0,"['wat', 'time', 'r', 'ü', 'going', 'xin', ""'s"", 'hostel', '?']",9,False,False,0,0.02857142857142857
+1,"['had', 'contract', 'mobile', '11', 'mnths', '?', 'latest', 'motorola', ',', 'nokia', 'etc', '.', 'free', '!', 'double', 'mins', '&', 'text', 'orange', 'tariff', '.', 'text', 'yes', 'callback', ',', 'remove', 'record', '.']",28,False,True,1,0.125
+0,"['i', 'take', ""n't"", 'phone', 'callon', 'friday', '.', 'can', 'assume', 'wo', ""n't"", 'year', '?']",13,False,False,0,0.031578947368421054
+0,"['i', 'bugis', 'juz', 'wat', '...', 'but', ""'m"", 'walking', 'home', 'oredi', '...', 'ü', 'late', 'reply', '...', 'i', 'oso', 'saw', 'top', 'dat', 'like', 'din', 'buy', '...', 'where', 'r', 'ü', '?']",28,False,False,0,0.034482758620689655
+0,"['i', ""'m"", 'already', 'back', 'home', 'probably']",6,False,False,0,0.025
+0,"['then', '.', 'you', 'eldest', 'know', '.']",6,False,False,0,0.07692307692307693
+0,"['yeah', ""'s"", 'quite', 'bit', 'left', ',', 'i', ""'ll"", 'swing', 'tomorrow', 'i', 'get']",12,False,False,0,0.04477611940298507
+0,"['whatever', ',', 'im', 'pretty', 'pissed', '.']",6,False,False,0,0.0
+0,"['&', 'lt', ';', '#', '&', 'gt', ';', 'fast', 'approaching', '.', 'so', ',', 'wish', 'u', 'happy', 'new', 'year', 'happy', 'sankranti', 'happy', 'republic', 'day', 'happy', 'valentines', 'day', 'happy', 'shivratri', 'happy', 'ugadi', 'happy', 'fools', 'day', 'happy', 'may', 'day', 'happy', 'independence', 'day', ',', 'happy', 'friendship', ',', 'mother', ',', 'father', ',', 'teachers', ',', 'childrens', 'day', ',', '&', 'amp', ';', 'happy', 'birthday', '4', 'u', '.', 'happy', 'ganesh', 'festival', 'happy', 'dasara', 'happy', 'diwali', 'happy', 'christmas', '&', 'lt', ';', '#', '&', 'gt', ';', 'good', 'mornings', 'afternoons', ',', 'evenings', 'nights', '.', 'rememberi', 'am', 'first', 'wishing', 'u', 'all', 'these', '...', ""'s"", 'raj']",92,False,True,0,0.16919739696312364
+0,"['yes', ',', 'reg', 'ciao', '!']",5,False,False,1,0.09523809523809523
+0,"['and', 'miss', 'vday', 'parachute', 'double', 'coin', '?', '?', '?', 'u', 'must', 'know', 'well', '...']",14,False,False,0,0.02531645569620253
+0,"['do', 'know', 'result', '.']",4,False,False,0,0.03571428571428571
+0,"['free', 'day', 'finish', '6', 'mon', 'n', 'thurs', '...']",8,False,True,0,0.020833333333333332
+0,"['oh', 'ok', 'prob', '..']",4,False,False,0,0.06666666666666667
+0,"['i', ""'m"", 'meeting', ',', 'call', 'later']",6,False,False,0,0.029411764705882353
+0,"['im', 'gonnamissu', 'so', 'much', '!', '!', 'i', 'would', 'say', 'il', 'send', 'u', 'a', 'postcard', 'buttheres', 'aboutas', 'much', 'chance', 'of', 'merememberin', 'asthere', 'is', 'ofsi', 'not', 'breakin', 'his', 'contract', '!', '!', 'luv', 'yaxx']",31,False,False,4,0.7908496732026143
+0,"['kaiez', '...', 'enjoy', 'ur', 'tuition', '...', 'gee', '...', 'thk', 'e', 'second', 'option', 'sound', 'beta', '...', 'i', ""'ll"", 'go', 'yan', 'jiu', 'den', 'msg', 'u', '...']",24,False,False,0,0.050505050505050504
+0,"['a', 'swt', 'thought', ':', '``', 'nver', 'get', 'tired', 'little', 'thing', '4', 'lovable', 'person', '..', ""''"", 'coz', '..', 'somtimes', 'little', 'thing', 'occupy', 'biggest', 'part', 'hearts', '..', 'gud', 'ni8']",27,False,True,0,0.03205128205128205
+0,"['good', 'evening', '!', 'roger', '.', 'how', '?']",7,False,False,1,0.04878048780487805
+0,"['hello', '.', 'they', 'going', 'village', 'pub', '8', 'either', 'come', 'accordingly', '.', 'ok', '?']",13,False,True,0,0.03296703296703297
+0,"['save', 'stress', '.', 'if', 'person', 'dorm', 'account', ',', 'send', 'account', 'detail', 'money', 'sent', '.']",14,False,False,0,0.016
+0,"['yes', '.', 'please', 'leave', '&', 'lt', ';', '#', '&', 'gt', ';', '.', 'so', '&', 'lt', ';', '#', '&', 'gt', ';', 'leave']",21,False,False,0,0.043478260869565216
+0,"['not', 'much', 'no', 'fights', '.', 'it', 'was', 'a', 'good', 'nite', '!', '!']",12,False,False,2,0.725
+0,"['you', ""'ve"", 'always', 'brainy', 'one', '.']",6,False,False,0,0.029411764705882353
+1,"['freemsg', 'hey', 'u', ',', 'got', '1', 'video/pic', 'fones', ',', 'reply', 'wild', 'txt', '&', 'ill', 'send', 'u', 'pic', ',', 'hurry', 'im', 'bored', 'work', 'xxx', '(', '18', '150p/rcvd', 'stop2stop', ')']",28,False,True,0,0.08974358974358974
+0,"['not', 'worry', '.', 'i', ""'m"", 'sure', ""'ll"", 'get', '.']",9,False,False,0,0.05405405405405406
+0,"['hi', '!', 'you', 'spoke', 'maneesha', 'v.', 'we', ""'d"", 'like', 'know', 'satisfied', 'experience', '.', 'reply', 'toll', 'free', 'yes', 'no', '.']",19,False,False,1,0.1349206349206349
+0,"['back', 'brum', '!', 'thanks', 'putting', 'u', 'keeping', 'u', 'happy', '.', 'see', 'soon']",12,False,False,1,0.036585365853658534
+0,"['u', 'call', '...']",3,False,False,0,0.058823529411764705
+0,"['i', 'hope', 'arnt', 'pissed', 'id', 'would', 'really', 'like', 'see', 'tomorrow', '.', 'love', 'xxxxxxxxxxxxxx']",13,False,False,0,0.031578947368421054
+0,"['anytime', 'lor', '...']",3,False,False,0,0.07142857142857142
+0,"['ok', 'knackered', '.', 'just', 'came', 'home', 'went', 'sleep', '!', 'not', 'good', 'full', 'time', 'work', 'lark', '.']",16,False,False,1,0.033707865168539325
+0,"['hi', '.', 'birth', '8lb', '7oz', '.', 'mother', 'baby', 'brilliantly', '.']",10,False,True,0,0.024691358024691357
+0,"['can', 'say', 'happen']",3,False,False,0,0.043478260869565216
+0,"['sorry', ',', ""'s"", 'lot', 'friend-of-a-friend', 'stuff', ',', 'i', ""'m"", 'talk', 'actual', 'guy', 'want', 'buy']",14,False,False,0,0.018518518518518517
