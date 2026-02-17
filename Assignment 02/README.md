@@ -1,5 +1,59 @@
 # Assignment 02 – Experiment Tracking & Version Control
 
+
+## Commands used
+
+```bash
+! dvc init
+! git init
+
+! git add .dvc .! gitignore
+! git commit -m "Initialize DVC - Starting the run"
+
+# split_random_seed = 2
+! dvc add data/
+! git add data.dvc
+! git commit -m "Data split seed=2"
+
+# split_random_seed = 9
+! dvc add data/
+! git add data.dvc
+! git commit -m "Data split seed=9"
+
+# split_random_seed = 13
+! dvc add data/
+! git add data.dvc
+! git commit -m "Data split seed=13"
+
+# split_random_seed = 42
+! dvc add data/
+! git add data.dvc
+! git commit -m "Data split seed=42"
+
+# split_random_seed = 123
+! dvc add data/
+! git add data.dvc
+! git commit -m "Data split seed=123"
+
+# -------------------------------------------------------------------------
+
+! mlflow ui
+# to open ml-flow to see AUCPR values
+
+
+! git log --oneline
+"""
+X:\.......>! git log --oneline
+619453e (HEAD -> master) Data split seed=123
+1a82e84 Data split seed=42
+3472277 Data split seed=13
+3223923 Data split seed=9
+b248a19 Data split seed=2
+378476b Initialize DVC - Starting the run
+"""
+
+```
+
 ## Problem Statement
 
 This project focuses on implementing reproducible Machine Learning workflows using:
