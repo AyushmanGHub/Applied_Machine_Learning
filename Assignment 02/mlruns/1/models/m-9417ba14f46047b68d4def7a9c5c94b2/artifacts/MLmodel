@@ -1,0 +1,24 @@
+artifact_path: file:x:/AGDrive/Applied_Machine_Learning/Assignment 02 - Experiment
+  Tracking/mlruns/1/models/m-9417ba14f46047b68d4def7a9c5c94b2/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+    skops_trusted_types: null
+mlflow_version: 3.9.0
+model_id: m-9417ba14f46047b68d4def7a9c5c94b2
+model_size_bytes: 359473
+model_uuid: m-9417ba14f46047b68d4def7a9c5c94b2
+prompts: null
+run_id: 315066869e424e90a0887e7f71f64a19
+utc_time_created: '2026-02-17 18:54:43.918635'
