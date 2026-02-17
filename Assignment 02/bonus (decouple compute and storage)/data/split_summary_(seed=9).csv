@@ -1,4 +1,0 @@
-Dataset,Total,Ham (0),Spam (1),Ham %,Spam %
-Train,3901,3379,522,86.62,13.38
-Validation,1115,977,138,87.62,12.38
-Test,558,471,87,84.41,15.59
