@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# Run tests automatically before committing to main branch
+
+current_branch=$(git rev-parse --abbrev-ref HEAD)
+
+if [ "$current_branch" = "main" ]; then
+    echo "Running tests before committing to main..."
+
+    pytest test.py --cov=. --cov-report=term-missing > coverage.txt
+
+    if [ $? -ne 0 ]; then
+        echo "Tests failed. Commit aborted."
+        exit 1
+    fi
+
+    echo "All tests passed. Commit allowed."
+fi
+
+exit 0

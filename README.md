@@ -16,3 +16,8 @@ This project implements a reproducible Machine Learning pipeline using **DVC for
 
 This project focuses on testing and deploying the SMS spam classification model. A `score()` function was implemented and validated using comprehensive unit tests with `pytest`. The model was then served through a **Flask API** with a `/score` endpoint returning prediction and propensity in JSON format. An integration test was created to automatically launch the server, test the endpoint, and shut it down. Test coverage was generated using `pytest-cov` to ensure reliability.
 > Go to the `Assignment 03` folder to know more about it
+
+## **Assignment 04 – Containerization & Continuous Integration**
+
+This project containerizes the SMS spam classification Flask API using **Docker**. A Docker image was built with a `Dockerfile` that installs dependencies and runs the Flask app. Automated tests were written to build the container, send a request to the `/score` endpoint, and validate the response. Test coverage was generated using `pytest-cov`, and a **pre-commit Git hook** was added to automatically run tests before every commit.
+> Go to the `Assignment 04` folder to know more about it
