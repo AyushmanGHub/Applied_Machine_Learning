@@ -21,3 +21,9 @@ This project focuses on testing and deploying the SMS spam classification model.
 
 This project containerizes the SMS spam classification Flask API using **Docker**. A Docker image was built with a `Dockerfile` that installs dependencies and runs the Flask app. Automated tests were written to build the container, send a request to the `/score` endpoint, and validate the response. Test coverage was generated using `pytest-cov`, and a **pre-commit Git hook** was added to automatically run tests before every commit.
 > Go to the `Assignment 04` folder to know more about it
+
+
+## **Assignment 05 – Transfer Learning for Image & Text Classification**
+
+This project explores the use of **transfer learning** for both image and text classification tasks. Pre-trained deep learning models were leveraged to improve performance and reduce training time. For image classification, a model was fine-tuned to distinguish between classes (e.g., duck vs chicken) using a pre-trained CNN. For text classification, a transformer-based model was adapted for sentiment analysis. The workflow includes data preprocessing, model fine-tuning, evaluation, and performance comparison, demonstrating the effectiveness of transfer learning in different domains.
+> Go to the `Assignment 05` folder to know more about it
